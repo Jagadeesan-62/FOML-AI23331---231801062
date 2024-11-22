@@ -1,0 +1,1001 @@
+Date,Product Name,Category,Sales Units,Sales Revenue,Stock Level,Price,Promotion,Economic Indicator,Weather,Competitor Price,Website Traffic,Holiday Season,Lead Time Days,Event Impact,Returns,Demand Forecast,Seasonality
+1/1/2024,Cozy Winter Jacket,Clothing,136,"$4,080",130,$30,Yes,75,Cloudy,$31.74,894,No,3,Holiday Sale,1,162,Winter
+1/2/2024,Cozy Winter Jacket,Clothing,126,"$3,780",265,$30,No,71,Rainy,$34.89,869,No,6,New Year Event,1,144,Winter
+1/3/2024,Cozy Winter Jacket,Clothing,159,"$4,770",110,$30,No,79,Sunny,$32.40,1193,Yes,7,New Year Event,4,141,Winter
+1/4/2024,Cozy Winter Jacket,Clothing,134,"$4,020",221,$30,No,73,Sunny,$34.70,1188,No,7,Holiday Sale,2,163,Winter
+1/5/2024,Cozy Winter Jacket,Clothing,100,"$3,000",41,$30,No,71,Cloudy,$27.16,849,No,6,New Year Event,5,146,Winter
+1/6/2024,Cozy Winter Jacket,Clothing,129,"$3,870",178,$30,No,79,Sunny,$25.57,1158,Yes,4,Holiday Sale,0,166,Winter
+1/7/2024,Cozy Winter Jacket,Clothing,131,"$3,930",194,$30,No,70,Cloudy,$26.81,884,Yes,5,Black Friday,5,158,Winter
+1/8/2024,Cozy Winter Jacket,Clothing,114,"$3,420",258,$30,Yes,79,Cloudy,$25.43,868,No,1,New Year Event,5,136,Winter
+1/9/2024,Cozy Winter Jacket,Clothing,155,"$4,650",37,$30,No,75,Cloudy,$31.04,1133,Yes,5,New Year Event,0,174,Winter
+1/10/2024,Cozy Winter Jacket,Clothing,145,"$4,350",90,$30,No,72,Cloudy,$32.12,910,Yes,2,Holiday Sale,5,162,Winter
+1/11/2024,Cozy Winter Jacket,Clothing,109,"$3,270",197,$30,Yes,75,Rainy,$26.25,821,Yes,3,None,2,133,Winter
+1/12/2024,Cozy Winter Jacket,Clothing,157,"$4,710",248,$30,Yes,73,Snowy,$27.52,1217,No,3,Holiday Sale,0,129,Winter
+1/13/2024,Cozy Winter Jacket,Clothing,108,"$3,240",272,$30,No,71,Snowy,$27.53,896,Yes,6,None,5,138,Winter
+1/14/2024,Cozy Winter Jacket,Clothing,138,"$4,140",168,$30,Yes,77,Cloudy,$27.56,990,No,5,Black Friday,4,158,Winter
+1/15/2024,Cozy Winter Jacket,Clothing,132,"$3,960",261,$30,No,78,Rainy,$30.15,1108,Yes,5,Holiday Sale,0,132,Winter
+1/16/2024,Cozy Winter Jacket,Clothing,129,"$3,870",44,$30,No,75,Sunny,$30.57,1255,Yes,3,Holiday Sale,1,159,Winter
+1/17/2024,Cozy Winter Jacket,Clothing,145,"$4,350",210,$30,No,80,Cloudy,$34.92,997,Yes,6,Holiday Sale,2,126,Winter
+1/18/2024,Cozy Winter Jacket,Clothing,155,"$4,650",64,$30,No,80,Cloudy,$33.75,903,Yes,5,New Year Event,5,167,Winter
+1/19/2024,Cozy Winter Jacket,Clothing,158,"$4,740",282,$30,No,72,Cloudy,$30.86,908,Yes,4,New Year Event,3,174,Winter
+1/20/2024,Cozy Winter Jacket,Clothing,106,"$3,180",9,$30,Yes,74,Rainy,$27.30,1059,No,5,New Year Event,2,165,Winter
+1/21/2024,Cozy Winter Jacket,Clothing,157,"$4,710",272,$30,No,71,Cloudy,$30.57,1118,Yes,4,New Year Event,4,158,Winter
+1/22/2024,Cozy Winter Jacket,Clothing,134,"$4,020",117,$30,Yes,80,Snowy,$34.46,1078,No,6,None,4,153,Winter
+1/23/2024,Cozy Winter Jacket,Clothing,126,"$3,780",141,$30,Yes,79,Sunny,$32.73,1177,Yes,4,None,1,132,Winter
+1/24/2024,Cozy Winter Jacket,Clothing,116,"$3,480",45,$30,Yes,78,Rainy,$29.70,850,Yes,3,Black Friday,4,143,Winter
+1/25/2024,Cozy Winter Jacket,Clothing,135,"$4,050",295,$30,Yes,76,Cloudy,$34.80,1205,No,7,Holiday Sale,3,165,Winter
+1/26/2024,Cozy Winter Jacket,Clothing,110,"$3,300",104,$30,Yes,76,Sunny,$27.05,1169,Yes,6,Black Friday,4,146,Winter
+1/27/2024,Cozy Winter Jacket,Clothing,125,"$3,750",116,$30,Yes,72,Sunny,$29.01,1039,Yes,2,None,4,140,Winter
+1/28/2024,Cozy Winter Jacket,Clothing,111,"$3,330",278,$30,Yes,80,Cloudy,$25.58,1299,No,6,Holiday Sale,3,135,Winter
+1/29/2024,Cozy Winter Jacket,Clothing,123,"$3,690",150,$30,No,78,Sunny,$25.38,831,No,1,Black Friday,3,148,Winter
+1/30/2024,Cozy Winter Jacket,Clothing,126,"$3,780",206,$30,No,77,Cloudy,$31.94,1161,No,3,Holiday Sale,2,138,Winter
+1/31/2024,Cozy Winter Jacket,Clothing,118,"$3,540",183,$30,No,78,Sunny,$27.58,897,Yes,2,New Year Event,2,165,Winter
+2/1/2024,Cozy Winter Jacket,Clothing,108,"$3,240",150,$30,No,70,Rainy,$30.92,977,No,5,New Year Event,2,168,Winter
+2/2/2024,Cozy Winter Jacket,Clothing,115,"$3,450",168,$30,Yes,74,Sunny,$30.92,821,No,6,Holiday Sale,0,170,Winter
+2/3/2024,Cozy Winter Jacket,Clothing,131,"$3,930",294,$30,No,79,Rainy,$34.99,1106,No,1,Holiday Sale,2,169,Winter
+2/4/2024,Cozy Winter Jacket,Clothing,139,"$4,170",218,$30,No,70,Snowy,$29.60,831,Yes,3,None,5,164,Winter
+2/5/2024,Cozy Winter Jacket,Clothing,134,"$4,020",79,$30,Yes,70,Sunny,$34.08,1042,Yes,3,None,4,136,Winter
+2/6/2024,Cozy Winter Jacket,Clothing,136,"$4,080",69,$30,Yes,75,Rainy,$32.92,947,No,3,Black Friday,4,127,Winter
+2/7/2024,Cozy Winter Jacket,Clothing,115,"$3,450",195,$30,No,77,Cloudy,$29.58,803,Yes,1,None,5,167,Winter
+2/8/2024,Cozy Winter Jacket,Clothing,123,"$3,690",244,$30,No,77,Rainy,$34.99,905,No,5,Black Friday,3,157,Winter
+2/9/2024,Cozy Winter Jacket,Clothing,118,"$3,540",205,$30,No,71,Snowy,$31.83,1222,Yes,7,New Year Event,2,140,Winter
+2/10/2024,Cozy Winter Jacket,Clothing,130,"$3,900",273,$30,No,71,Snowy,$28.35,1275,Yes,6,Black Friday,5,145,Winter
+2/11/2024,Cozy Winter Jacket,Clothing,159,"$4,770",230,$30,Yes,75,Cloudy,$33.10,1173,No,5,None,0,172,Winter
+2/12/2024,Cozy Winter Jacket,Clothing,131,"$3,930",83,$30,No,72,Cloudy,$34.65,950,No,7,Holiday Sale,3,141,Winter
+2/13/2024,Cozy Winter Jacket,Clothing,134,"$4,020",178,$30,Yes,75,Snowy,$29.75,1026,Yes,2,None,1,146,Winter
+2/14/2024,Cozy Winter Jacket,Clothing,117,"$3,510",199,$30,No,79,Rainy,$33.34,1243,No,1,New Year Event,3,151,Winter
+2/15/2024,Cozy Winter Jacket,Clothing,113,"$3,390",193,$30,Yes,76,Sunny,$27.32,902,No,4,Black Friday,5,145,Winter
+2/16/2024,Cozy Winter Jacket,Clothing,141,"$4,230",244,$30,Yes,78,Snowy,$29.20,1071,No,5,Holiday Sale,3,172,Winter
+2/17/2024,Cozy Winter Jacket,Clothing,106,"$3,180",8,$30,Yes,71,Rainy,$29.47,1197,No,7,Holiday Sale,5,162,Winter
+2/18/2024,Cozy Winter Jacket,Clothing,100,"$3,000",43,$30,No,78,Cloudy,$30.93,941,Yes,3,Black Friday,0,171,Winter
+2/19/2024,Cozy Winter Jacket,Clothing,133,"$3,990",131,$30,No,77,Cloudy,$32.34,1259,No,5,Black Friday,3,136,Winter
+2/20/2024,Cozy Winter Jacket,Clothing,157,"$4,710",144,$30,Yes,71,Rainy,$28.61,826,Yes,3,Holiday Sale,1,146,Winter
+2/21/2024,Cozy Winter Jacket,Clothing,149,"$4,470",50,$30,Yes,76,Sunny,$34.52,914,No,7,New Year Event,1,173,Winter
+2/22/2024,Cozy Winter Jacket,Clothing,115,"$3,450",11,$30,No,79,Sunny,$32.64,1047,No,6,New Year Event,0,161,Winter
+2/23/2024,Cozy Winter Jacket,Clothing,151,"$4,530",195,$30,Yes,78,Snowy,$25.57,1102,No,2,New Year Event,2,142,Winter
+2/24/2024,Cozy Winter Jacket,Clothing,102,"$3,060",233,$30,Yes,71,Snowy,$26.58,909,No,1,New Year Event,0,160,Winter
+2/25/2024,Cozy Winter Jacket,Clothing,155,"$4,650",203,$30,Yes,70,Rainy,$34.48,1236,Yes,3,None,5,174,Winter
+2/26/2024,Cozy Winter Jacket,Clothing,102,"$3,060",20,$30,Yes,72,Sunny,$30.81,1265,No,6,Black Friday,1,173,Winter
+2/27/2024,Cozy Winter Jacket,Clothing,147,"$4,410",115,$30,No,77,Cloudy,$30.99,1046,Yes,7,Black Friday,4,156,Winter
+2/28/2024,Cozy Winter Jacket,Clothing,108,"$3,240",145,$30,Yes,70,Cloudy,$33.22,1026,Yes,2,Black Friday,3,134,Winter
+2/29/2024,Cozy Winter Jacket,Clothing,136,"$4,080",183,$30,Yes,72,Sunny,$26.22,988,No,3,Holiday Sale,3,134,Winter
+3/1/2024,Cozy Winter Jacket,Clothing,143,"$4,290",122,$30,Yes,71,Sunny,$29.92,1109,Yes,4,New Year Event,3,142,Winter
+3/2/2024,Cozy Winter Jacket,Clothing,117,"$3,510",231,$30,No,79,Snowy,$33.26,863,Yes,2,Black Friday,5,153,Winter
+3/3/2024,Cozy Winter Jacket,Clothing,127,"$3,810",10,$30,Yes,71,Snowy,$32.52,1160,No,7,None,1,144,Winter
+3/4/2024,Cozy Winter Jacket,Clothing,154,"$4,620",20,$30,Yes,80,Sunny,$28.99,858,No,4,None,2,133,Winter
+3/5/2024,Cozy Winter Jacket,Clothing,114,"$3,420",240,$30,No,73,Rainy,$32.46,902,Yes,3,Holiday Sale,3,173,Winter
+3/6/2024,Cozy Winter Jacket,Clothing,141,"$4,230",11,$30,No,76,Cloudy,$27.67,1019,Yes,1,Holiday Sale,3,164,Winter
+3/7/2024,Cozy Winter Jacket,Clothing,122,"$3,660",77,$30,No,74,Rainy,$32.58,844,Yes,7,New Year Event,4,153,Winter
+3/8/2024,Cozy Winter Jacket,Clothing,122,"$3,660",225,$30,Yes,80,Rainy,$29.33,917,No,2,Black Friday,3,144,Winter
+3/9/2024,Cozy Winter Jacket,Clothing,144,"$4,320",89,$30,No,71,Sunny,$32.79,1156,No,4,None,3,152,Winter
+3/10/2024,Cozy Winter Jacket,Clothing,124,"$3,720",61,$30,No,72,Sunny,$32.06,1211,Yes,4,Holiday Sale,2,158,Winter
+3/11/2024,Cozy Winter Jacket,Clothing,112,"$3,360",298,$30,No,71,Rainy,$28.73,969,Yes,2,New Year Event,1,163,Winter
+3/12/2024,Cozy Winter Jacket,Clothing,111,"$3,330",173,$30,No,79,Sunny,$31.00,1068,No,2,None,5,125,Winter
+3/13/2024,Cozy Winter Jacket,Clothing,144,"$4,320",3,$30,Yes,80,Sunny,$31.02,1245,No,1,None,1,134,Winter
+3/14/2024,Cozy Winter Jacket,Clothing,131,"$3,930",271,$30,No,78,Snowy,$26.34,981,No,4,None,0,132,Winter
+3/15/2024,Cozy Winter Jacket,Clothing,132,"$3,960",249,$30,Yes,72,Cloudy,$28.63,1198,Yes,3,Black Friday,3,151,Winter
+3/16/2024,Cozy Winter Jacket,Clothing,110,"$3,300",36,$30,Yes,80,Snowy,$31.82,1168,Yes,7,None,1,139,Winter
+3/17/2024,Cozy Winter Jacket,Clothing,135,"$4,050",96,$30,Yes,73,Cloudy,$32.69,1293,No,2,Black Friday,4,138,Winter
+3/18/2024,Cozy Winter Jacket,Clothing,144,"$4,320",236,$30,No,70,Rainy,$26.70,1232,Yes,4,Holiday Sale,1,148,Winter
+3/19/2024,Cozy Winter Jacket,Clothing,154,"$4,620",290,$30,Yes,73,Snowy,$32.66,1276,No,1,Holiday Sale,4,168,Winter
+3/20/2024,Cozy Winter Jacket,Clothing,113,"$3,390",248,$30,No,78,Cloudy,$32.91,1217,Yes,3,Holiday Sale,1,167,Winter
+3/21/2024,Cozy Winter Jacket,Clothing,151,"$4,530",55,$30,No,74,Cloudy,$27.41,1137,No,6,New Year Event,2,172,Winter
+3/22/2024,Cozy Winter Jacket,Clothing,103,"$3,090",110,$30,No,73,Cloudy,$32.25,1108,Yes,2,None,1,167,Winter
+3/23/2024,Cozy Winter Jacket,Clothing,160,"$4,800",89,$30,No,74,Cloudy,$31.79,1291,Yes,5,Holiday Sale,0,163,Winter
+3/24/2024,Cozy Winter Jacket,Clothing,150,"$4,500",92,$30,Yes,76,Snowy,$25.75,936,No,5,Holiday Sale,3,131,Winter
+3/25/2024,Cozy Winter Jacket,Clothing,127,"$3,810",35,$30,No,73,Snowy,$27.84,1244,Yes,1,Holiday Sale,2,157,Winter
+3/26/2024,Cozy Winter Jacket,Clothing,103,"$3,090",198,$30,No,72,Rainy,$27.69,1266,No,1,Holiday Sale,2,138,Winter
+3/27/2024,Cozy Winter Jacket,Clothing,152,"$4,560",14,$30,No,76,Snowy,$29.56,1201,No,7,New Year Event,2,137,Winter
+3/28/2024,Cozy Winter Jacket,Clothing,127,"$3,810",25,$30,No,70,Sunny,$30.64,894,Yes,4,Holiday Sale,5,170,Winter
+3/29/2024,Cozy Winter Jacket,Clothing,138,"$4,140",283,$30,Yes,73,Cloudy,$33.92,1283,Yes,4,None,5,167,Winter
+3/30/2024,Cozy Winter Jacket,Clothing,146,"$4,380",125,$30,Yes,74,Rainy,$28.07,1208,No,5,None,0,144,Winter
+3/31/2024,Cozy Winter Jacket,Clothing,146,"$4,380",133,$30,Yes,77,Cloudy,$29.08,893,Yes,7,New Year Event,4,155,Winter
+4/1/2024,Cozy Winter Jacket,Clothing,105,"$3,150",107,$30,Yes,74,Snowy,$30.68,965,Yes,5,New Year Event,4,135,Winter
+4/2/2024,Cozy Winter Jacket,Clothing,148,"$4,440",187,$30,Yes,74,Snowy,$27.33,867,Yes,4,Black Friday,5,175,Winter
+4/3/2024,Cozy Winter Jacket,Clothing,126,"$3,780",221,$30,No,76,Cloudy,$27.98,1113,Yes,1,New Year Event,4,164,Winter
+4/4/2024,Cozy Winter Jacket,Clothing,117,"$3,510",180,$30,Yes,74,Rainy,$27.95,1000,No,2,New Year Event,0,160,Winter
+4/5/2024,Cozy Winter Jacket,Clothing,127,"$3,810",273,$30,No,73,Cloudy,$32.11,916,Yes,4,Black Friday,0,149,Winter
+4/6/2024,Cozy Winter Jacket,Clothing,153,"$4,590",274,$30,Yes,79,Sunny,$26.40,1192,Yes,6,Holiday Sale,5,173,Winter
+4/7/2024,Cozy Winter Jacket,Clothing,150,"$4,500",133,$30,No,76,Sunny,$26.16,1019,No,6,Black Friday,4,163,Winter
+4/8/2024,Cozy Winter Jacket,Clothing,111,"$3,330",255,$30,No,79,Sunny,$32.15,1100,No,5,Holiday Sale,1,159,Winter
+4/9/2024,Cozy Winter Jacket,Clothing,137,"$4,110",183,$30,No,78,Cloudy,$33.34,1273,No,3,Black Friday,2,140,Winter
+4/10/2024,Cozy Winter Jacket,Clothing,135,"$4,050",151,$30,No,73,Sunny,$32.53,1184,No,4,New Year Event,2,158,Winter
+4/11/2024,Cozy Winter Jacket,Clothing,160,"$4,800",37,$30,Yes,79,Sunny,$34.99,1173,No,5,Holiday Sale,1,147,Winter
+4/12/2024,Cozy Winter Jacket,Clothing,118,"$3,540",90,$30,Yes,71,Cloudy,$32.76,1065,Yes,5,None,2,146,Winter
+4/13/2024,Cozy Winter Jacket,Clothing,118,"$3,540",16,$30,No,70,Cloudy,$29.36,1233,Yes,2,Holiday Sale,0,174,Winter
+4/14/2024,Cozy Winter Jacket,Clothing,148,"$4,440",187,$30,No,78,Rainy,$32.14,934,No,3,None,0,164,Winter
+4/15/2024,Cozy Winter Jacket,Clothing,132,"$3,960",12,$30,Yes,79,Snowy,$30.89,1190,Yes,1,Black Friday,2,132,Winter
+4/16/2024,Cozy Winter Jacket,Clothing,146,"$4,380",117,$30,Yes,74,Sunny,$30.39,1099,Yes,1,Holiday Sale,4,172,Winter
+4/17/2024,Cozy Winter Jacket,Clothing,120,"$3,600",168,$30,No,76,Sunny,$31.80,1231,No,2,Black Friday,1,175,Winter
+4/18/2024,Cozy Winter Jacket,Clothing,147,"$4,410",166,$30,Yes,72,Rainy,$31.55,1148,Yes,1,None,3,165,Winter
+4/19/2024,Cozy Winter Jacket,Clothing,117,"$3,510",253,$30,No,73,Snowy,$25.40,1130,Yes,6,New Year Event,0,164,Winter
+4/20/2024,Cozy Winter Jacket,Clothing,106,"$3,180",226,$30,No,80,Rainy,$25.90,819,No,1,Black Friday,3,174,Winter
+4/21/2024,Cozy Winter Jacket,Clothing,146,"$4,380",113,$30,Yes,77,Cloudy,$34.12,1099,No,6,None,1,158,Winter
+4/22/2024,Cozy Winter Jacket,Clothing,125,"$3,750",201,$30,Yes,74,Rainy,$32.83,1024,No,6,New Year Event,3,173,Winter
+4/23/2024,Cozy Winter Jacket,Clothing,146,"$4,380",293,$30,No,70,Snowy,$27.56,1236,Yes,5,New Year Event,4,130,Winter
+4/24/2024,Cozy Winter Jacket,Clothing,108,"$3,240",130,$30,No,71,Cloudy,$33.70,1141,Yes,2,Black Friday,2,152,Winter
+4/25/2024,Cozy Winter Jacket,Clothing,160,"$4,800",281,$30,Yes,71,Rainy,$27.08,926,Yes,3,None,1,149,Winter
+4/26/2024,Cozy Winter Jacket,Clothing,123,"$3,690",276,$30,Yes,76,Cloudy,$33.62,881,No,6,New Year Event,2,163,Winter
+4/27/2024,Cozy Winter Jacket,Clothing,115,"$3,450",102,$30,No,77,Sunny,$31.63,888,No,5,None,2,137,Winter
+4/28/2024,Cozy Winter Jacket,Clothing,145,"$4,350",291,$30,No,70,Snowy,$33.82,1121,Yes,4,New Year Event,4,172,Winter
+4/29/2024,Cozy Winter Jacket,Clothing,149,"$4,470",133,$30,No,80,Snowy,$34.40,1213,No,6,Black Friday,5,152,Winter
+4/30/2024,Cozy Winter Jacket,Clothing,117,"$3,510",164,$30,No,74,Snowy,$33.94,1296,No,1,None,1,170,Winter
+5/1/2024,Cozy Winter Jacket,Clothing,142,"$4,260",237,$30,Yes,77,Rainy,$30.20,1234,Yes,5,Holiday Sale,0,151,Winter
+5/2/2024,Cozy Winter Jacket,Clothing,123,"$3,690",287,$30,No,70,Rainy,$32.70,818,Yes,1,New Year Event,2,171,Winter
+5/3/2024,Cozy Winter Jacket,Clothing,140,"$4,200",242,$30,No,74,Cloudy,$32.63,1164,Yes,7,None,3,125,Winter
+5/4/2024,Cozy Winter Jacket,Clothing,132,"$3,960",275,$30,No,71,Rainy,$25.39,993,Yes,1,Black Friday,2,154,Winter
+5/5/2024,Cozy Winter Jacket,Clothing,139,"$4,170",104,$30,Yes,72,Rainy,$33.47,1187,No,1,New Year Event,5,148,Winter
+5/6/2024,Cozy Winter Jacket,Clothing,129,"$3,870",167,$30,Yes,72,Snowy,$28.77,1065,Yes,3,New Year Event,2,164,Winter
+5/7/2024,Cozy Winter Jacket,Clothing,130,"$3,900",271,$30,No,74,Snowy,$27.34,1097,No,3,Black Friday,5,136,Winter
+5/8/2024,Cozy Winter Jacket,Clothing,124,"$3,720",103,$30,Yes,74,Cloudy,$29.15,875,No,1,Black Friday,0,146,Winter
+5/9/2024,Cozy Winter Jacket,Clothing,133,"$3,990",293,$30,No,79,Snowy,$33.65,937,Yes,5,Black Friday,2,140,Winter
+5/10/2024,Cozy Winter Jacket,Clothing,148,"$4,440",288,$30,Yes,76,Cloudy,$25.79,811,No,6,None,0,171,Winter
+5/11/2024,Cozy Winter Jacket,Clothing,146,"$4,380",118,$30,No,80,Rainy,$29.90,919,No,4,None,2,171,Winter
+5/12/2024,Cozy Winter Jacket,Clothing,149,"$4,470",184,$30,Yes,77,Snowy,$28.78,991,No,3,None,4,169,Winter
+5/13/2024,Cozy Winter Jacket,Clothing,124,"$3,720",35,$30,Yes,74,Rainy,$31.97,1223,No,7,Holiday Sale,0,163,Winter
+5/14/2024,Cozy Winter Jacket,Clothing,115,"$3,450",101,$30,Yes,72,Cloudy,$28.32,1166,Yes,2,None,5,171,Winter
+5/15/2024,Cozy Winter Jacket,Clothing,110,"$3,300",255,$30,No,77,Cloudy,$29.16,835,Yes,6,None,1,132,Winter
+5/16/2024,Cozy Winter Jacket,Clothing,136,"$4,080",22,$30,Yes,74,Snowy,$34.84,1149,No,3,Black Friday,5,173,Winter
+5/17/2024,Cozy Winter Jacket,Clothing,138,"$4,140",272,$30,No,77,Sunny,$27.25,1030,No,2,Holiday Sale,5,137,Winter
+5/18/2024,Cozy Winter Jacket,Clothing,158,"$4,740",219,$30,No,77,Cloudy,$27.64,1195,Yes,1,New Year Event,3,137,Winter
+5/19/2024,Cozy Winter Jacket,Clothing,116,"$3,480",110,$30,No,74,Sunny,$32.41,831,Yes,4,Holiday Sale,2,168,Winter
+5/20/2024,Cozy Winter Jacket,Clothing,153,"$4,590",226,$30,No,77,Snowy,$32.50,905,Yes,7,None,3,135,Winter
+5/21/2024,Cozy Winter Jacket,Clothing,143,"$4,290",131,$30,No,76,Rainy,$32.71,1001,No,5,New Year Event,4,144,Winter
+5/22/2024,Cozy Winter Jacket,Clothing,139,"$4,170",164,$30,Yes,79,Sunny,$26.68,891,No,2,New Year Event,4,138,Winter
+5/23/2024,Cozy Winter Jacket,Clothing,154,"$4,620",88,$30,Yes,70,Cloudy,$28.63,1047,No,4,New Year Event,3,170,Winter
+5/24/2024,Cozy Winter Jacket,Clothing,143,"$4,290",164,$30,No,75,Snowy,$29.21,1063,Yes,2,New Year Event,4,128,Winter
+5/25/2024,Cozy Winter Jacket,Clothing,122,"$3,660",147,$30,No,77,Cloudy,$29.18,1004,Yes,7,None,0,131,Winter
+5/26/2024,Cozy Winter Jacket,Clothing,105,"$3,150",149,$30,No,79,Rainy,$28.49,1028,Yes,5,New Year Event,0,159,Winter
+5/27/2024,Cozy Winter Jacket,Clothing,123,"$3,690",274,$30,Yes,80,Snowy,$34.01,1001,Yes,1,New Year Event,0,129,Winter
+5/28/2024,Cozy Winter Jacket,Clothing,145,"$4,350",294,$30,No,78,Rainy,$30.38,811,Yes,1,Black Friday,4,164,Winter
+5/29/2024,Cozy Winter Jacket,Clothing,151,"$4,530",16,$30,No,79,Cloudy,$31.00,1285,Yes,4,Holiday Sale,1,158,Winter
+5/30/2024,Cozy Winter Jacket,Clothing,108,"$3,240",139,$30,Yes,79,Snowy,$32.87,914,Yes,7,New Year Event,4,166,Winter
+5/31/2024,Cozy Winter Jacket,Clothing,160,"$4,800",108,$30,No,73,Rainy,$26.55,1109,No,1,Black Friday,2,158,Winter
+6/1/2024,Cozy Winter Jacket,Clothing,131,"$3,930",243,$30,No,72,Snowy,$31.23,1071,Yes,4,Holiday Sale,0,160,Winter
+6/2/2024,Cozy Winter Jacket,Clothing,152,"$4,560",129,$30,Yes,78,Snowy,$30.40,843,No,5,Black Friday,5,125,Winter
+6/3/2024,Cozy Winter Jacket,Clothing,148,"$4,440",75,$30,No,79,Cloudy,$30.48,1237,Yes,1,Holiday Sale,1,129,Winter
+6/4/2024,Cozy Winter Jacket,Clothing,120,"$3,600",287,$30,No,72,Sunny,$27.06,1045,Yes,1,New Year Event,0,128,Winter
+6/5/2024,Cozy Winter Jacket,Clothing,136,"$4,080",282,$30,No,73,Cloudy,$32.28,1187,No,2,Holiday Sale,2,164,Winter
+6/6/2024,Cozy Winter Jacket,Clothing,147,"$4,410",159,$30,Yes,71,Snowy,$32.58,1192,Yes,2,None,3,168,Winter
+6/7/2024,Cozy Winter Jacket,Clothing,103,"$3,090",81,$30,No,70,Cloudy,$25.40,871,Yes,2,Holiday Sale,5,132,Winter
+6/8/2024,Cozy Winter Jacket,Clothing,108,"$3,240",272,$30,No,79,Cloudy,$25.00,1282,Yes,3,Holiday Sale,5,141,Winter
+6/9/2024,Cozy Winter Jacket,Clothing,104,"$3,120",221,$30,Yes,75,Rainy,$29.77,1005,No,1,None,4,138,Winter
+6/10/2024,Cozy Winter Jacket,Clothing,136,"$4,080",121,$30,No,74,Cloudy,$25.11,904,No,5,New Year Event,3,153,Winter
+6/11/2024,Cozy Winter Jacket,Clothing,122,"$3,660",157,$30,No,80,Cloudy,$29.86,1175,Yes,1,New Year Event,3,138,Winter
+6/12/2024,Cozy Winter Jacket,Clothing,143,"$4,290",159,$30,Yes,75,Snowy,$26.18,1291,No,2,Holiday Sale,3,150,Winter
+6/13/2024,Cozy Winter Jacket,Clothing,119,"$3,570",100,$30,Yes,78,Rainy,$34.42,946,No,4,Black Friday,2,158,Winter
+6/14/2024,Cozy Winter Jacket,Clothing,101,"$3,030",297,$30,No,75,Sunny,$33.02,1151,Yes,1,None,1,170,Winter
+6/15/2024,Cozy Winter Jacket,Clothing,121,"$3,630",271,$30,Yes,77,Cloudy,$30.19,1160,Yes,7,New Year Event,5,169,Winter
+6/16/2024,Cozy Winter Jacket,Clothing,110,"$3,300",190,$30,Yes,77,Rainy,$31.55,1274,No,6,New Year Event,2,141,Winter
+6/17/2024,Cozy Winter Jacket,Clothing,134,"$4,020",93,$30,No,78,Cloudy,$29.40,1288,No,5,Holiday Sale,1,152,Winter
+6/18/2024,Cozy Winter Jacket,Clothing,160,"$4,800",54,$30,No,72,Cloudy,$28.34,1219,Yes,2,Black Friday,3,143,Winter
+6/19/2024,Cozy Winter Jacket,Clothing,115,"$3,450",289,$30,No,74,Sunny,$26.64,923,Yes,1,Black Friday,3,134,Winter
+6/20/2024,Cozy Winter Jacket,Clothing,139,"$4,170",84,$30,Yes,76,Rainy,$25.32,1170,No,7,Holiday Sale,1,137,Winter
+6/21/2024,Cozy Winter Jacket,Clothing,106,"$3,180",250,$30,No,74,Cloudy,$33.68,843,No,6,Black Friday,4,126,Winter
+6/22/2024,Cozy Winter Jacket,Clothing,116,"$3,480",190,$30,No,74,Cloudy,$29.04,1248,No,6,None,4,174,Winter
+6/23/2024,Cozy Winter Jacket,Clothing,121,"$3,630",174,$30,No,80,Snowy,$27.71,862,Yes,1,Holiday Sale,2,151,Winter
+6/24/2024,Cozy Winter Jacket,Clothing,144,"$4,320",6,$30,Yes,73,Snowy,$30.02,1209,No,2,None,2,137,Winter
+6/25/2024,Cozy Winter Jacket,Clothing,126,"$3,780",274,$30,Yes,73,Snowy,$34.89,953,Yes,6,Holiday Sale,3,175,Winter
+6/26/2024,Cozy Winter Jacket,Clothing,134,"$4,020",232,$30,Yes,73,Snowy,$33.35,900,No,5,None,3,149,Winter
+6/27/2024,Cozy Winter Jacket,Clothing,143,"$4,290",244,$30,No,80,Rainy,$27.45,1046,Yes,5,Holiday Sale,4,166,Winter
+6/28/2024,Cozy Winter Jacket,Clothing,133,"$3,990",72,$30,No,73,Cloudy,$28.72,859,No,4,Holiday Sale,5,147,Winter
+6/29/2024,Cozy Winter Jacket,Clothing,110,"$3,300",244,$30,Yes,78,Rainy,$33.24,948,No,3,None,4,172,Winter
+6/30/2024,Cozy Winter Jacket,Clothing,149,"$4,470",248,$30,Yes,75,Cloudy,$30.40,1054,Yes,3,New Year Event,0,143,Winter
+7/1/2024,Cozy Winter Jacket,Clothing,153,"$4,590",290,$30,Yes,74,Cloudy,$31.97,1224,Yes,7,New Year Event,2,156,Winter
+7/2/2024,Cozy Winter Jacket,Clothing,134,"$4,020",74,$30,No,71,Rainy,$27.38,1008,Yes,3,Black Friday,3,132,Winter
+7/3/2024,Cozy Winter Jacket,Clothing,106,"$3,180",208,$30,Yes,80,Cloudy,$33.25,1125,No,4,Black Friday,3,153,Winter
+7/4/2024,Cozy Winter Jacket,Clothing,156,"$4,680",138,$30,Yes,73,Cloudy,$28.13,803,Yes,4,Black Friday,0,143,Winter
+7/5/2024,Cozy Winter Jacket,Clothing,157,"$4,710",51,$30,Yes,79,Snowy,$34.61,950,Yes,4,New Year Event,4,158,Winter
+7/6/2024,Cozy Winter Jacket,Clothing,122,"$3,660",91,$30,Yes,78,Sunny,$33.20,809,Yes,6,New Year Event,4,149,Winter
+7/7/2024,Cozy Winter Jacket,Clothing,151,"$4,530",278,$30,No,80,Snowy,$26.73,1093,No,2,None,1,126,Winter
+7/8/2024,Cozy Winter Jacket,Clothing,148,"$4,440",136,$30,Yes,79,Rainy,$33.37,1172,Yes,4,Black Friday,0,144,Winter
+7/9/2024,Cozy Winter Jacket,Clothing,107,"$3,210",91,$30,No,80,Rainy,$26.85,1224,No,7,New Year Event,1,159,Winter
+7/10/2024,Cozy Winter Jacket,Clothing,125,"$3,750",103,$30,Yes,80,Sunny,$27.49,885,Yes,6,New Year Event,3,163,Winter
+7/11/2024,Cozy Winter Jacket,Clothing,134,"$4,020",144,$30,No,72,Cloudy,$34.15,1261,Yes,1,New Year Event,4,126,Winter
+7/12/2024,Cozy Winter Jacket,Clothing,124,"$3,720",66,$30,No,72,Cloudy,$34.71,1114,Yes,5,Holiday Sale,0,142,Winter
+7/13/2024,Cozy Winter Jacket,Clothing,145,"$4,350",99,$30,No,75,Rainy,$32.97,1095,Yes,3,None,5,145,Winter
+7/14/2024,Cozy Winter Jacket,Clothing,158,"$4,740",202,$30,No,70,Rainy,$32.30,1251,Yes,7,New Year Event,3,158,Winter
+7/15/2024,Cozy Winter Jacket,Clothing,114,"$3,420",193,$30,No,77,Snowy,$32.07,1264,No,5,Black Friday,3,150,Winter
+7/16/2024,Cozy Winter Jacket,Clothing,117,"$3,510",138,$30,Yes,76,Rainy,$34.33,865,Yes,5,Black Friday,2,143,Winter
+7/17/2024,Cozy Winter Jacket,Clothing,115,"$3,450",199,$30,Yes,73,Cloudy,$29.63,1222,Yes,3,Black Friday,0,136,Winter
+7/18/2024,Cozy Winter Jacket,Clothing,117,"$3,510",16,$30,No,72,Rainy,$28.82,1032,Yes,4,New Year Event,4,131,Winter
+7/19/2024,Cozy Winter Jacket,Clothing,138,"$4,140",4,$30,Yes,73,Sunny,$32.92,855,Yes,4,Black Friday,5,150,Winter
+7/20/2024,Cozy Winter Jacket,Clothing,124,"$3,720",128,$30,Yes,70,Sunny,$27.25,1037,No,1,None,0,149,Winter
+7/21/2024,Cozy Winter Jacket,Clothing,121,"$3,630",50,$30,Yes,74,Rainy,$30.11,1009,Yes,6,None,5,137,Winter
+7/22/2024,Cozy Winter Jacket,Clothing,155,"$4,650",264,$30,No,73,Rainy,$32.37,852,No,4,Black Friday,1,148,Winter
+7/23/2024,Cozy Winter Jacket,Clothing,137,"$4,110",210,$30,No,75,Rainy,$34.41,1244,No,6,Holiday Sale,3,164,Winter
+7/24/2024,Cozy Winter Jacket,Clothing,113,"$3,390",224,$30,No,79,Snowy,$26.00,912,Yes,3,Black Friday,5,156,Winter
+7/25/2024,Cozy Winter Jacket,Clothing,109,"$3,270",231,$30,No,72,Rainy,$34.14,1005,Yes,7,Black Friday,0,147,Winter
+7/26/2024,Cozy Winter Jacket,Clothing,122,"$3,660",181,$30,Yes,72,Cloudy,$29.43,801,Yes,7,Black Friday,5,132,Winter
+7/27/2024,Cozy Winter Jacket,Clothing,126,"$3,780",63,$30,No,76,Cloudy,$30.67,916,No,1,Black Friday,1,143,Winter
+7/28/2024,Cozy Winter Jacket,Clothing,141,"$4,230",1,$30,No,79,Snowy,$33.20,1116,Yes,7,None,4,173,Winter
+7/29/2024,Cozy Winter Jacket,Clothing,130,"$3,900",277,$30,No,76,Snowy,$28.16,926,Yes,3,None,1,141,Winter
+7/30/2024,Cozy Winter Jacket,Clothing,158,"$4,740",46,$30,No,75,Snowy,$27.87,977,Yes,6,New Year Event,1,137,Winter
+7/31/2024,Cozy Winter Jacket,Clothing,104,"$3,120",300,$30,Yes,71,Cloudy,$28.81,905,No,5,None,5,147,Winter
+8/1/2024,Cozy Winter Jacket,Clothing,105,"$3,150",272,$30,Yes,74,Snowy,$27.12,845,No,3,Holiday Sale,2,175,Winter
+8/2/2024,Cozy Winter Jacket,Clothing,141,"$4,230",40,$30,Yes,77,Cloudy,$28.19,1084,Yes,1,Black Friday,3,149,Winter
+8/3/2024,Cozy Winter Jacket,Clothing,107,"$3,210",207,$30,Yes,77,Snowy,$26.50,1247,Yes,7,New Year Event,5,158,Winter
+8/4/2024,Cozy Winter Jacket,Clothing,149,"$4,470",80,$30,Yes,70,Rainy,$27.11,1173,No,3,Holiday Sale,4,154,Winter
+8/5/2024,Cozy Winter Jacket,Clothing,106,"$3,180",246,$30,Yes,76,Sunny,$31.88,806,No,1,New Year Event,5,153,Winter
+8/6/2024,Cozy Winter Jacket,Clothing,112,"$3,360",280,$30,No,76,Sunny,$31.43,1146,No,2,None,0,149,Winter
+8/7/2024,Cozy Winter Jacket,Clothing,108,"$3,240",30,$30,No,78,Sunny,$32.88,972,No,6,Holiday Sale,3,136,Winter
+8/8/2024,Cozy Winter Jacket,Clothing,120,"$3,600",189,$30,Yes,71,Cloudy,$29.45,1278,No,1,New Year Event,0,142,Winter
+8/9/2024,Cozy Winter Jacket,Clothing,112,"$3,360",92,$30,Yes,78,Snowy,$30.07,958,No,3,None,4,153,Winter
+8/10/2024,Cozy Winter Jacket,Clothing,121,"$3,630",136,$30,No,74,Rainy,$34.40,1218,No,5,New Year Event,4,126,Winter
+8/11/2024,Cozy Winter Jacket,Clothing,141,"$4,230",135,$30,Yes,76,Sunny,$31.46,1243,Yes,1,None,0,175,Winter
+8/12/2024,Cozy Winter Jacket,Clothing,100,"$3,000",208,$30,No,80,Rainy,$33.29,1283,Yes,5,New Year Event,3,160,Winter
+8/13/2024,Cozy Winter Jacket,Clothing,125,"$3,750",272,$30,No,77,Snowy,$28.11,1148,No,6,New Year Event,0,165,Winter
+8/14/2024,Cozy Winter Jacket,Clothing,109,"$3,270",218,$30,Yes,73,Rainy,$29.82,817,No,5,None,0,129,Winter
+8/15/2024,Cozy Winter Jacket,Clothing,135,"$4,050",35,$30,Yes,72,Cloudy,$30.01,1080,Yes,1,New Year Event,5,162,Winter
+8/16/2024,Cozy Winter Jacket,Clothing,125,"$3,750",223,$30,No,80,Cloudy,$33.06,1049,No,4,Holiday Sale,2,163,Winter
+8/17/2024,Cozy Winter Jacket,Clothing,113,"$3,390",118,$30,No,78,Snowy,$32.53,1023,Yes,3,None,2,147,Winter
+8/18/2024,Cozy Winter Jacket,Clothing,151,"$4,530",62,$30,Yes,72,Snowy,$27.06,1073,No,5,Black Friday,5,172,Winter
+8/19/2024,Cozy Winter Jacket,Clothing,139,"$4,170",165,$30,Yes,75,Cloudy,$27.33,1220,Yes,6,None,4,152,Winter
+8/20/2024,Cozy Winter Jacket,Clothing,111,"$3,330",175,$30,Yes,71,Snowy,$25.04,1280,No,6,Holiday Sale,0,145,Winter
+8/21/2024,Cozy Winter Jacket,Clothing,140,"$4,200",224,$30,Yes,76,Snowy,$30.55,1044,Yes,4,Black Friday,0,139,Winter
+8/22/2024,Cozy Winter Jacket,Clothing,113,"$3,390",215,$30,Yes,77,Snowy,$25.07,1291,No,3,Black Friday,3,161,Winter
+8/23/2024,Cozy Winter Jacket,Clothing,145,"$4,350",63,$30,Yes,75,Snowy,$30.51,820,No,1,New Year Event,5,165,Winter
+8/24/2024,Cozy Winter Jacket,Clothing,148,"$4,440",40,$30,No,72,Cloudy,$32.58,1043,Yes,2,Black Friday,4,125,Winter
+8/25/2024,Cozy Winter Jacket,Clothing,102,"$3,060",241,$30,Yes,75,Sunny,$34.84,1138,No,1,Black Friday,4,128,Winter
+8/26/2024,Cozy Winter Jacket,Clothing,104,"$3,120",173,$30,No,72,Rainy,$34.41,1283,Yes,2,New Year Event,1,160,Winter
+8/27/2024,Cozy Winter Jacket,Clothing,107,"$3,210",254,$30,No,80,Sunny,$29.95,939,Yes,3,Black Friday,3,155,Winter
+8/28/2024,Cozy Winter Jacket,Clothing,123,"$3,690",169,$30,Yes,73,Cloudy,$30.58,1007,Yes,5,None,0,153,Winter
+8/29/2024,Cozy Winter Jacket,Clothing,102,"$3,060",59,$30,No,78,Rainy,$34.24,987,No,2,Holiday Sale,4,129,Winter
+8/30/2024,Cozy Winter Jacket,Clothing,152,"$4,560",168,$30,Yes,80,Snowy,$27.28,1225,Yes,2,New Year Event,4,162,Winter
+8/31/2024,Cozy Winter Jacket,Clothing,107,"$3,210",78,$30,Yes,74,Sunny,$30.77,1112,Yes,6,Holiday Sale,1,147,Winter
+9/1/2024,Cozy Winter Jacket,Clothing,156,"$4,680",6,$30,Yes,70,Snowy,$29.44,988,No,4,Holiday Sale,3,168,Winter
+9/2/2024,Cozy Winter Jacket,Clothing,118,"$3,540",230,$30,Yes,73,Rainy,$27.73,1191,Yes,3,None,0,130,Winter
+9/3/2024,Cozy Winter Jacket,Clothing,116,"$3,480",58,$30,Yes,71,Cloudy,$29.03,1190,Yes,1,None,3,164,Winter
+9/4/2024,Cozy Winter Jacket,Clothing,157,"$4,710",259,$30,Yes,74,Sunny,$27.42,1261,Yes,5,Holiday Sale,1,155,Winter
+9/5/2024,Cozy Winter Jacket,Clothing,108,"$3,240",163,$30,Yes,75,Snowy,$32.17,1016,No,1,Black Friday,2,164,Winter
+9/6/2024,Cozy Winter Jacket,Clothing,148,"$4,440",70,$30,No,80,Snowy,$30.58,919,No,5,New Year Event,3,131,Winter
+9/7/2024,Cozy Winter Jacket,Clothing,109,"$3,270",256,$30,No,79,Rainy,$32.16,856,No,5,None,2,152,Winter
+9/8/2024,Cozy Winter Jacket,Clothing,141,"$4,230",224,$30,No,80,Cloudy,$26.73,1164,No,5,None,4,173,Winter
+9/9/2024,Cozy Winter Jacket,Clothing,159,"$4,770",130,$30,Yes,79,Rainy,$26.71,898,No,2,Holiday Sale,2,139,Winter
+9/10/2024,Cozy Winter Jacket,Clothing,149,"$4,470",186,$30,Yes,77,Rainy,$33.29,1291,No,6,Black Friday,0,174,Winter
+9/11/2024,Cozy Winter Jacket,Clothing,111,"$3,330",246,$30,No,78,Sunny,$31.76,978,No,7,Holiday Sale,4,128,Winter
+9/12/2024,Cozy Winter Jacket,Clothing,119,"$3,570",223,$30,Yes,78,Rainy,$32.66,968,No,7,None,1,130,Winter
+9/13/2024,Cozy Winter Jacket,Clothing,116,"$3,480",173,$30,No,78,Rainy,$31.19,1017,No,6,New Year Event,5,168,Winter
+9/14/2024,Cozy Winter Jacket,Clothing,121,"$3,630",48,$30,No,80,Cloudy,$34.57,1250,No,1,Black Friday,0,161,Winter
+9/15/2024,Cozy Winter Jacket,Clothing,104,"$3,120",196,$30,No,76,Sunny,$30.25,989,No,2,Black Friday,2,158,Winter
+9/16/2024,Cozy Winter Jacket,Clothing,127,"$3,810",199,$30,No,79,Cloudy,$29.14,857,No,7,New Year Event,5,173,Winter
+9/17/2024,Cozy Winter Jacket,Clothing,133,"$3,990",15,$30,Yes,80,Rainy,$34.29,1154,No,1,Black Friday,2,166,Winter
+9/18/2024,Cozy Winter Jacket,Clothing,118,"$3,540",12,$30,No,71,Cloudy,$30.89,1040,No,6,None,2,143,Winter
+9/19/2024,Cozy Winter Jacket,Clothing,143,"$4,290",236,$30,No,80,Cloudy,$32.63,1060,No,6,Black Friday,4,159,Winter
+9/20/2024,Cozy Winter Jacket,Clothing,141,"$4,230",161,$30,No,73,Rainy,$32.51,994,Yes,5,None,2,158,Winter
+9/21/2024,Cozy Winter Jacket,Clothing,147,"$4,410",10,$30,Yes,78,Rainy,$33.78,920,Yes,5,Holiday Sale,0,150,Winter
+9/22/2024,Cozy Winter Jacket,Clothing,156,"$4,680",224,$30,No,74,Sunny,$25.53,1159,Yes,2,New Year Event,2,134,Winter
+9/23/2024,Cozy Winter Jacket,Clothing,143,"$4,290",25,$30,No,77,Rainy,$25.31,1087,No,4,New Year Event,5,147,Winter
+9/24/2024,Cozy Winter Jacket,Clothing,154,"$4,620",156,$30,No,75,Cloudy,$31.29,820,Yes,4,Holiday Sale,4,153,Winter
+9/25/2024,Cozy Winter Jacket,Clothing,155,"$4,650",286,$30,No,73,Cloudy,$29.41,1204,Yes,3,None,5,138,Winter
+9/26/2024,Cozy Winter Jacket,Clothing,130,"$3,900",279,$30,Yes,80,Sunny,$30.45,941,Yes,5,Black Friday,4,130,Winter
+9/27/2024,Cozy Winter Jacket,Clothing,117,"$3,510",300,$30,Yes,72,Sunny,$31.52,1043,No,1,New Year Event,2,174,Winter
+9/28/2024,Cozy Winter Jacket,Clothing,144,"$4,320",49,$30,Yes,71,Rainy,$33.51,978,Yes,6,None,5,170,Winter
+9/29/2024,Cozy Winter Jacket,Clothing,144,"$4,320",213,$30,No,72,Cloudy,$31.26,1181,Yes,3,Black Friday,0,132,Winter
+9/30/2024,Cozy Winter Jacket,Clothing,150,"$4,500",235,$30,No,75,Rainy,$25.09,1016,No,7,None,3,143,Winter
+10/1/2024,Cozy Winter Jacket,Clothing,159,"$4,770",140,$30,No,73,Rainy,$26.71,818,Yes,3,Black Friday,4,127,Winter
+10/2/2024,Cozy Winter Jacket,Clothing,144,"$4,320",164,$30,Yes,74,Cloudy,$33.14,1272,No,1,Black Friday,5,151,Winter
+10/3/2024,Cozy Winter Jacket,Clothing,104,"$3,120",246,$30,No,76,Cloudy,$26.19,1272,No,1,Holiday Sale,3,163,Winter
+10/4/2024,Cozy Winter Jacket,Clothing,111,"$3,330",198,$30,No,72,Sunny,$31.99,1055,Yes,2,Holiday Sale,2,147,Winter
+10/5/2024,Cozy Winter Jacket,Clothing,155,"$4,650",43,$30,Yes,73,Sunny,$27.82,1128,No,5,Black Friday,1,152,Winter
+10/6/2024,Cozy Winter Jacket,Clothing,135,"$4,050",244,$30,Yes,71,Sunny,$27.02,918,Yes,4,Black Friday,4,152,Winter
+10/7/2024,Cozy Winter Jacket,Clothing,136,"$4,080",101,$30,Yes,75,Sunny,$26.10,1159,No,4,Black Friday,1,128,Winter
+10/8/2024,Cozy Winter Jacket,Clothing,126,"$3,780",246,$30,Yes,78,Snowy,$28.97,1096,No,5,Holiday Sale,2,154,Winter
+10/9/2024,Cozy Winter Jacket,Clothing,145,"$4,350",83,$30,No,76,Sunny,$25.34,828,Yes,5,Black Friday,3,163,Winter
+10/10/2024,Cozy Winter Jacket,Clothing,118,"$3,540",201,$30,Yes,77,Sunny,$33.78,1266,No,3,None,4,161,Winter
+10/11/2024,Cozy Winter Jacket,Clothing,154,"$4,620",127,$30,Yes,75,Sunny,$35.00,934,Yes,4,New Year Event,0,147,Winter
+10/12/2024,Cozy Winter Jacket,Clothing,113,"$3,390",239,$30,No,74,Cloudy,$27.72,1091,No,7,Holiday Sale,5,158,Winter
+10/13/2024,Cozy Winter Jacket,Clothing,132,"$3,960",136,$30,Yes,70,Snowy,$25.74,1063,No,1,Holiday Sale,2,171,Winter
+10/14/2024,Cozy Winter Jacket,Clothing,153,"$4,590",145,$30,Yes,71,Rainy,$28.79,1173,Yes,5,None,5,163,Winter
+10/15/2024,Cozy Winter Jacket,Clothing,147,"$4,410",128,$30,Yes,79,Sunny,$25.01,908,No,4,Black Friday,4,130,Winter
+10/16/2024,Cozy Winter Jacket,Clothing,109,"$3,270",0,$30,Yes,76,Snowy,$27.61,941,Yes,1,Holiday Sale,0,130,Winter
+10/17/2024,Cozy Winter Jacket,Clothing,113,"$3,390",9,$30,Yes,72,Cloudy,$32.77,864,Yes,7,Holiday Sale,3,168,Winter
+10/18/2024,Cozy Winter Jacket,Clothing,121,"$3,630",213,$30,No,72,Sunny,$26.12,1267,Yes,2,New Year Event,4,166,Winter
+10/19/2024,Cozy Winter Jacket,Clothing,107,"$3,210",122,$30,No,70,Snowy,$33.50,1160,Yes,1,New Year Event,3,142,Winter
+10/20/2024,Cozy Winter Jacket,Clothing,127,"$3,810",27,$30,No,70,Sunny,$34.52,852,No,5,Black Friday,5,168,Winter
+10/21/2024,Cozy Winter Jacket,Clothing,151,"$4,530",248,$30,No,78,Rainy,$28.51,833,No,6,None,0,170,Winter
+10/22/2024,Cozy Winter Jacket,Clothing,125,"$3,750",262,$30,Yes,70,Sunny,$27.78,1274,No,6,New Year Event,5,170,Winter
+10/23/2024,Cozy Winter Jacket,Clothing,154,"$4,620",236,$30,Yes,74,Cloudy,$25.93,1093,Yes,6,None,3,138,Winter
+10/24/2024,Cozy Winter Jacket,Clothing,149,"$4,470",259,$30,No,79,Snowy,$34.67,1046,No,1,New Year Event,5,133,Winter
+10/25/2024,Cozy Winter Jacket,Clothing,122,"$3,660",125,$30,No,70,Cloudy,$30.29,1060,No,1,Black Friday,3,125,Winter
+10/26/2024,Cozy Winter Jacket,Clothing,126,"$3,780",226,$30,Yes,74,Rainy,$34.91,1154,Yes,2,New Year Event,1,155,Winter
+10/27/2024,Cozy Winter Jacket,Clothing,109,"$3,270",176,$30,Yes,73,Snowy,$30.58,907,No,7,Holiday Sale,5,144,Winter
+10/28/2024,Cozy Winter Jacket,Clothing,135,"$4,050",9,$30,Yes,71,Rainy,$31.64,1167,Yes,3,None,4,144,Winter
+10/29/2024,Cozy Winter Jacket,Clothing,135,"$4,050",109,$30,Yes,74,Rainy,$31.76,1233,Yes,5,Holiday Sale,3,143,Winter
+10/30/2024,Cozy Winter Jacket,Clothing,131,"$3,930",166,$30,No,77,Snowy,$31.19,1138,Yes,5,Black Friday,2,148,Winter
+10/31/2024,Cozy Winter Jacket,Clothing,130,"$3,900",154,$30,Yes,73,Snowy,$34.18,894,No,1,New Year Event,5,133,Winter
+11/1/2024,Cozy Winter Jacket,Clothing,151,"$4,530",74,$30,Yes,71,Snowy,$33.22,828,Yes,7,Holiday Sale,4,132,Winter
+11/2/2024,Cozy Winter Jacket,Clothing,109,"$3,270",167,$30,No,79,Sunny,$30.82,878,Yes,4,Black Friday,4,128,Winter
+11/3/2024,Cozy Winter Jacket,Clothing,128,"$3,840",183,$30,No,79,Snowy,$26.69,944,No,6,None,4,128,Winter
+11/4/2024,Cozy Winter Jacket,Clothing,155,"$4,650",5,$30,Yes,76,Sunny,$34.37,1056,No,5,Black Friday,0,127,Winter
+11/5/2024,Cozy Winter Jacket,Clothing,140,"$4,200",43,$30,Yes,76,Rainy,$26.89,1236,No,6,Holiday Sale,4,167,Winter
+11/6/2024,Cozy Winter Jacket,Clothing,109,"$3,270",174,$30,Yes,76,Sunny,$33.25,1235,Yes,7,Black Friday,1,153,Winter
+11/7/2024,Cozy Winter Jacket,Clothing,114,"$3,420",177,$30,Yes,76,Sunny,$30.03,914,No,3,Black Friday,2,129,Winter
+11/8/2024,Cozy Winter Jacket,Clothing,128,"$3,840",30,$30,Yes,75,Rainy,$30.88,1288,No,4,Black Friday,5,129,Winter
+11/9/2024,Cozy Winter Jacket,Clothing,122,"$3,660",183,$30,No,72,Cloudy,$26.33,1128,No,3,Holiday Sale,5,156,Winter
+11/10/2024,Cozy Winter Jacket,Clothing,151,"$4,530",250,$30,No,76,Rainy,$33.66,974,Yes,5,New Year Event,3,175,Winter
+11/11/2024,Cozy Winter Jacket,Clothing,155,"$4,650",187,$30,Yes,75,Rainy,$26.38,1130,Yes,6,Holiday Sale,1,141,Winter
+11/12/2024,Cozy Winter Jacket,Clothing,129,"$3,870",81,$30,No,78,Cloudy,$31.26,930,No,2,New Year Event,3,157,Winter
+11/13/2024,Cozy Winter Jacket,Clothing,125,"$3,750",287,$30,No,76,Sunny,$32.40,1254,Yes,7,Holiday Sale,5,162,Winter
+11/14/2024,Cozy Winter Jacket,Clothing,107,"$3,210",60,$30,No,70,Snowy,$29.05,1173,No,1,None,4,172,Winter
+11/15/2024,Cozy Winter Jacket,Clothing,139,"$4,170",70,$30,Yes,79,Cloudy,$29.82,1005,Yes,2,Holiday Sale,5,125,Winter
+11/16/2024,Cozy Winter Jacket,Clothing,114,"$3,420",97,$30,Yes,80,Rainy,$33.89,1256,Yes,2,New Year Event,5,167,Winter
+11/17/2024,Cozy Winter Jacket,Clothing,153,"$4,590",66,$30,Yes,78,Sunny,$30.61,953,No,2,None,4,135,Winter
+11/18/2024,Cozy Winter Jacket,Clothing,128,"$3,840",72,$30,Yes,78,Rainy,$34.27,952,Yes,2,Black Friday,1,146,Winter
+11/19/2024,Cozy Winter Jacket,Clothing,120,"$3,600",151,$30,No,79,Rainy,$29.18,1077,No,5,Holiday Sale,5,171,Winter
+11/20/2024,Cozy Winter Jacket,Clothing,135,"$4,050",141,$30,Yes,70,Sunny,$28.39,1141,Yes,3,Holiday Sale,0,146,Winter
+11/21/2024,Cozy Winter Jacket,Clothing,141,"$4,230",129,$30,Yes,76,Snowy,$30.68,1171,No,7,None,5,149,Winter
+11/22/2024,Cozy Winter Jacket,Clothing,107,"$3,210",121,$30,Yes,76,Snowy,$31.85,861,No,2,New Year Event,2,131,Winter
+11/23/2024,Cozy Winter Jacket,Clothing,128,"$3,840",245,$30,Yes,72,Sunny,$27.93,1054,No,1,Holiday Sale,2,157,Winter
+11/24/2024,Cozy Winter Jacket,Clothing,111,"$3,330",268,$30,Yes,71,Cloudy,$30.55,1277,No,1,None,3,159,Winter
+11/25/2024,Cozy Winter Jacket,Clothing,138,"$4,140",240,$30,Yes,80,Snowy,$29.05,1152,No,7,Black Friday,1,171,Winter
+11/26/2024,Cozy Winter Jacket,Clothing,106,"$3,180",146,$30,No,71,Sunny,$25.66,981,Yes,2,None,5,139,Winter
+11/27/2024,Cozy Winter Jacket,Clothing,138,"$4,140",12,$30,Yes,74,Snowy,$27.17,1106,Yes,2,None,0,146,Winter
+11/28/2024,Cozy Winter Jacket,Clothing,153,"$4,590",134,$30,No,77,Sunny,$32.57,881,Yes,2,None,3,150,Winter
+11/29/2024,Cozy Winter Jacket,Clothing,141,"$4,230",184,$30,Yes,71,Snowy,$27.96,858,No,5,Holiday Sale,2,156,Winter
+11/30/2024,Cozy Winter Jacket,Clothing,125,"$3,750",207,$30,No,80,Rainy,$32.77,831,No,5,Holiday Sale,5,126,Winter
+12/1/2024,Cozy Winter Jacket,Clothing,145,"$4,350",279,$30,Yes,76,Snowy,$33.74,1090,Yes,3,None,2,153,Winter
+12/2/2024,Cozy Winter Jacket,Clothing,103,"$3,090",194,$30,Yes,76,Sunny,$25.94,803,Yes,6,Holiday Sale,4,154,Winter
+12/3/2024,Cozy Winter Jacket,Clothing,100,"$3,000",284,$30,No,79,Snowy,$25.36,1102,No,2,Holiday Sale,2,135,Winter
+12/4/2024,Cozy Winter Jacket,Clothing,131,"$3,930",245,$30,No,75,Rainy,$30.67,955,No,5,Holiday Sale,1,138,Winter
+12/5/2024,Cozy Winter Jacket,Clothing,140,"$4,200",65,$30,No,80,Rainy,$34.32,1257,Yes,4,New Year Event,1,160,Winter
+12/6/2024,Cozy Winter Jacket,Clothing,114,"$3,420",226,$30,No,76,Cloudy,$25.15,1130,No,7,New Year Event,1,157,Winter
+12/7/2024,Cozy Winter Jacket,Clothing,114,"$3,420",47,$30,Yes,75,Sunny,$25.13,1226,No,7,New Year Event,2,129,Winter
+12/8/2024,Cozy Winter Jacket,Clothing,134,"$4,020",2,$30,No,71,Cloudy,$32.95,1248,Yes,7,New Year Event,2,152,Winter
+12/9/2024,Cozy Winter Jacket,Clothing,147,"$4,410",40,$30,Yes,74,Cloudy,$30.30,1045,Yes,6,Holiday Sale,2,130,Winter
+12/10/2024,Cozy Winter Jacket,Clothing,146,"$4,380",172,$30,Yes,71,Cloudy,$26.51,1093,No,7,New Year Event,2,128,Winter
+12/11/2024,Cozy Winter Jacket,Clothing,135,"$4,050",192,$30,Yes,78,Sunny,$30.17,955,No,6,Black Friday,1,146,Winter
+12/12/2024,Cozy Winter Jacket,Clothing,103,"$3,090",109,$30,No,78,Sunny,$25.97,1245,No,3,Holiday Sale,2,175,Winter
+12/13/2024,Cozy Winter Jacket,Clothing,104,"$3,120",74,$30,No,70,Cloudy,$32.37,1024,No,7,Holiday Sale,3,142,Winter
+12/14/2024,Cozy Winter Jacket,Clothing,116,"$3,480",41,$30,No,76,Cloudy,$33.83,930,No,6,New Year Event,4,172,Winter
+12/15/2024,Cozy Winter Jacket,Clothing,141,"$4,230",190,$30,No,79,Cloudy,$31.40,1223,Yes,3,Holiday Sale,2,153,Winter
+12/16/2024,Cozy Winter Jacket,Clothing,124,"$3,720",94,$30,No,73,Sunny,$34.18,1084,No,2,New Year Event,2,130,Winter
+12/17/2024,Cozy Winter Jacket,Clothing,135,"$4,050",47,$30,Yes,79,Rainy,$30.02,907,Yes,1,None,1,148,Winter
+12/18/2024,Cozy Winter Jacket,Clothing,141,"$4,230",297,$30,No,75,Cloudy,$28.06,1038,No,7,Black Friday,2,151,Winter
+12/19/2024,Cozy Winter Jacket,Clothing,157,"$4,710",136,$30,No,80,Cloudy,$26.70,1098,No,5,Holiday Sale,4,126,Winter
+12/20/2024,Cozy Winter Jacket,Clothing,112,"$3,360",212,$30,No,70,Rainy,$25.20,1028,No,7,Holiday Sale,1,138,Winter
+12/21/2024,Cozy Winter Jacket,Clothing,134,"$4,020",277,$30,Yes,74,Rainy,$31.29,1037,Yes,4,None,5,161,Winter
+12/22/2024,Cozy Winter Jacket,Clothing,128,"$3,840",232,$30,No,79,Rainy,$27.17,816,Yes,5,Holiday Sale,2,159,Winter
+12/23/2024,Cozy Winter Jacket,Clothing,124,"$3,720",174,$30,Yes,70,Snowy,$26.74,959,No,4,Black Friday,1,155,Winter
+12/24/2024,Cozy Winter Jacket,Clothing,157,"$4,710",146,$30,No,75,Cloudy,$27.20,936,No,3,Black Friday,5,131,Winter
+12/25/2024,Cozy Winter Jacket,Clothing,140,"$4,200",7,$30,Yes,80,Snowy,$34.92,879,No,1,New Year Event,5,170,Winter
+12/26/2024,Cozy Winter Jacket,Clothing,107,"$3,210",284,$30,No,72,Rainy,$26.70,811,Yes,5,None,3,168,Winter
+12/27/2024,Cozy Winter Jacket,Clothing,132,"$3,960",151,$30,Yes,78,Sunny,$27.77,1179,No,1,None,4,153,Winter
+12/28/2024,Cozy Winter Jacket,Clothing,148,"$4,440",194,$30,No,70,Rainy,$28.34,1030,Yes,2,None,4,164,Winter
+12/29/2024,Cozy Winter Jacket,Clothing,145,"$4,350",252,$30,No,73,Sunny,$32.18,876,No,5,None,3,157,Winter
+12/30/2024,Cozy Winter Jacket,Clothing,160,"$4,800",287,$30,No,73,Cloudy,$28.19,1206,Yes,6,Holiday Sale,3,149,Winter
+12/31/2024,Cozy Winter Jacket,Clothing,109,"$3,270",134,$30,Yes,73,Snowy,$25.15,1108,Yes,7,New Year Event,5,146,Winter
+1/1/2025,Cozy Winter Jacket,Clothing,112,"$3,360",60,$30,Yes,71,Cloudy,$33.01,956,Yes,2,New Year Event,4,165,Winter
+1/2/2025,Cozy Winter Jacket,Clothing,105,"$3,150",137,$30,Yes,79,Sunny,$25.35,1133,Yes,7,Holiday Sale,3,136,Winter
+1/3/2025,Cozy Winter Jacket,Clothing,124,"$3,720",178,$30,No,77,Sunny,$27.73,883,Yes,1,Holiday Sale,4,158,Winter
+1/4/2025,Cozy Winter Jacket,Clothing,153,"$4,590",122,$30,Yes,73,Rainy,$32.53,1219,Yes,4,Black Friday,4,163,Winter
+1/5/2025,Cozy Winter Jacket,Clothing,100,"$3,000",141,$30,No,73,Sunny,$25.11,1252,Yes,6,Holiday Sale,1,154,Winter
+1/6/2025,Cozy Winter Jacket,Clothing,160,"$4,800",112,$30,Yes,77,Snowy,$29.21,958,No,6,New Year Event,0,142,Winter
+1/7/2025,Cozy Winter Jacket,Clothing,139,"$4,170",72,$30,Yes,76,Sunny,$25.37,1180,Yes,6,Black Friday,4,133,Winter
+1/8/2025,Cozy Winter Jacket,Clothing,136,"$4,080",90,$30,Yes,78,Sunny,$30.96,953,No,1,None,2,143,Winter
+1/9/2025,Cozy Winter Jacket,Clothing,122,"$3,660",202,$30,No,76,Rainy,$30.44,816,Yes,1,None,5,146,Winter
+1/10/2025,Cozy Winter Jacket,Clothing,155,"$4,650",90,$30,No,80,Rainy,$31.95,1187,No,2,None,3,154,Winter
+1/11/2025,Cozy Winter Jacket,Clothing,153,"$4,590",125,$30,No,73,Rainy,$31.90,1014,No,7,None,0,145,Winter
+1/12/2025,Cozy Winter Jacket,Clothing,103,"$3,090",1,$30,Yes,78,Snowy,$30.10,1153,Yes,1,None,1,175,Winter
+1/13/2025,Cozy Winter Jacket,Clothing,145,"$4,350",40,$30,Yes,78,Cloudy,$33.37,1020,No,5,None,4,174,Winter
+1/14/2025,Cozy Winter Jacket,Clothing,109,"$3,270",3,$30,No,77,Snowy,$31.43,1084,No,7,Black Friday,5,145,Winter
+1/15/2025,Cozy Winter Jacket,Clothing,154,"$4,620",49,$30,Yes,73,Cloudy,$27.39,1128,No,4,Holiday Sale,1,175,Winter
+1/16/2025,Cozy Winter Jacket,Clothing,112,"$3,360",72,$30,Yes,73,Cloudy,$32.13,1258,Yes,7,Black Friday,3,156,Winter
+1/17/2025,Cozy Winter Jacket,Clothing,154,"$4,620",78,$30,No,71,Sunny,$31.34,1284,No,5,Holiday Sale,5,137,Winter
+1/18/2025,Cozy Winter Jacket,Clothing,141,"$4,230",284,$30,Yes,74,Snowy,$31.87,901,No,2,Holiday Sale,2,141,Winter
+1/19/2025,Cozy Winter Jacket,Clothing,127,"$3,810",182,$30,Yes,78,Cloudy,$34.19,1092,Yes,7,None,1,172,Winter
+1/20/2025,Cozy Winter Jacket,Clothing,118,"$3,540",106,$30,Yes,77,Cloudy,$26.12,937,Yes,3,New Year Event,5,133,Winter
+1/21/2025,Cozy Winter Jacket,Clothing,152,"$4,560",160,$30,No,78,Rainy,$32.58,980,No,2,Holiday Sale,1,141,Winter
+1/22/2025,Cozy Winter Jacket,Clothing,157,"$4,710",54,$30,No,75,Cloudy,$32.66,1187,No,4,Black Friday,1,132,Winter
+1/23/2025,Cozy Winter Jacket,Clothing,118,"$3,540",160,$30,No,71,Cloudy,$31.95,1102,Yes,5,Holiday Sale,5,152,Winter
+1/24/2025,Cozy Winter Jacket,Clothing,142,"$4,260",61,$30,Yes,73,Cloudy,$30.92,808,Yes,1,Black Friday,5,172,Winter
+1/25/2025,Cozy Winter Jacket,Clothing,158,"$4,740",55,$30,Yes,78,Rainy,$33.88,807,Yes,3,Black Friday,2,147,Winter
+1/26/2025,Cozy Winter Jacket,Clothing,144,"$4,320",287,$30,Yes,80,Snowy,$34.21,1163,Yes,2,Black Friday,3,141,Winter
+1/27/2025,Cozy Winter Jacket,Clothing,154,"$4,620",245,$30,No,73,Rainy,$34.15,983,Yes,2,New Year Event,3,151,Winter
+1/28/2025,Cozy Winter Jacket,Clothing,134,"$4,020",135,$30,No,75,Sunny,$29.82,1106,No,7,None,0,146,Winter
+1/29/2025,Cozy Winter Jacket,Clothing,108,"$3,240",136,$30,Yes,78,Cloudy,$34.89,944,Yes,7,None,3,171,Winter
+1/30/2025,Cozy Winter Jacket,Clothing,134,"$4,020",107,$30,Yes,72,Snowy,$32.24,1196,Yes,5,Holiday Sale,3,135,Winter
+1/31/2025,Cozy Winter Jacket,Clothing,114,"$3,420",125,$30,No,80,Snowy,$26.81,980,No,4,Black Friday,0,131,Winter
+2/1/2025,Cozy Winter Jacket,Clothing,118,"$3,540",65,$30,No,76,Cloudy,$29.35,1292,No,1,None,4,147,Winter
+2/2/2025,Cozy Winter Jacket,Clothing,115,"$3,450",131,$30,Yes,73,Rainy,$25.43,1210,No,6,Black Friday,1,133,Winter
+2/3/2025,Cozy Winter Jacket,Clothing,109,"$3,270",54,$30,Yes,75,Rainy,$31.44,1275,Yes,3,New Year Event,1,141,Winter
+2/4/2025,Cozy Winter Jacket,Clothing,155,"$4,650",289,$30,Yes,80,Snowy,$29.76,954,No,1,None,5,146,Winter
+2/5/2025,Cozy Winter Jacket,Clothing,107,"$3,210",252,$30,Yes,73,Snowy,$30.53,1226,No,1,New Year Event,2,166,Winter
+2/6/2025,Cozy Winter Jacket,Clothing,101,"$3,030",120,$30,No,71,Snowy,$30.45,1133,No,4,Black Friday,0,165,Winter
+2/7/2025,Cozy Winter Jacket,Clothing,130,"$3,900",43,$30,No,77,Snowy,$29.09,1222,Yes,3,Holiday Sale,2,167,Winter
+2/8/2025,Cozy Winter Jacket,Clothing,140,"$4,200",227,$30,No,77,Snowy,$29.50,1246,No,6,Holiday Sale,2,151,Winter
+2/9/2025,Cozy Winter Jacket,Clothing,132,"$3,960",91,$30,No,76,Rainy,$25.33,1184,No,6,None,2,163,Winter
+2/10/2025,Cozy Winter Jacket,Clothing,107,"$3,210",61,$30,No,78,Rainy,$31.74,915,No,7,None,1,164,Winter
+2/11/2025,Cozy Winter Jacket,Clothing,148,"$4,440",89,$30,No,80,Cloudy,$33.38,962,Yes,1,Holiday Sale,5,175,Winter
+2/12/2025,Cozy Winter Jacket,Clothing,117,"$3,510",173,$30,Yes,79,Sunny,$29.76,1225,Yes,6,None,0,139,Winter
+2/13/2025,Cozy Winter Jacket,Clothing,130,"$3,900",47,$30,No,73,Snowy,$31.43,873,No,7,Black Friday,3,150,Winter
+2/14/2025,Cozy Winter Jacket,Clothing,121,"$3,630",269,$30,Yes,72,Cloudy,$25.14,1037,Yes,3,Holiday Sale,0,132,Winter
+2/15/2025,Cozy Winter Jacket,Clothing,158,"$4,740",165,$30,No,72,Cloudy,$34.50,942,No,4,New Year Event,5,174,Winter
+2/16/2025,Cozy Winter Jacket,Clothing,106,"$3,180",129,$30,Yes,77,Snowy,$27.26,1076,Yes,4,Holiday Sale,2,164,Winter
+2/17/2025,Cozy Winter Jacket,Clothing,145,"$4,350",232,$30,Yes,80,Snowy,$27.22,1283,No,1,New Year Event,2,164,Winter
+2/18/2025,Cozy Winter Jacket,Clothing,158,"$4,740",85,$30,Yes,74,Sunny,$31.37,1247,No,3,Holiday Sale,4,153,Winter
+2/19/2025,Cozy Winter Jacket,Clothing,143,"$4,290",56,$30,No,76,Cloudy,$27.75,891,Yes,1,Black Friday,4,149,Winter
+2/20/2025,Cozy Winter Jacket,Clothing,105,"$3,150",63,$30,Yes,76,Rainy,$33.69,895,Yes,2,New Year Event,1,156,Winter
+2/21/2025,Cozy Winter Jacket,Clothing,135,"$4,050",186,$30,No,75,Snowy,$26.42,1178,No,1,Black Friday,1,161,Winter
+2/22/2025,Cozy Winter Jacket,Clothing,147,"$4,410",286,$30,No,76,Snowy,$26.51,1220,No,1,Holiday Sale,0,158,Winter
+2/23/2025,Cozy Winter Jacket,Clothing,123,"$3,690",252,$30,No,78,Rainy,$29.29,976,No,5,None,3,171,Winter
+2/24/2025,Cozy Winter Jacket,Clothing,101,"$3,030",70,$30,No,72,Snowy,$34.13,907,No,4,None,5,166,Winter
+2/25/2025,Cozy Winter Jacket,Clothing,134,"$4,020",185,$30,No,70,Cloudy,$31.79,1058,No,7,Black Friday,0,148,Winter
+2/26/2025,Cozy Winter Jacket,Clothing,101,"$3,030",52,$30,Yes,78,Sunny,$31.88,1036,Yes,1,Black Friday,5,141,Winter
+2/27/2025,Cozy Winter Jacket,Clothing,138,"$4,140",25,$30,No,76,Sunny,$27.83,863,Yes,3,New Year Event,0,136,Winter
+2/28/2025,Cozy Winter Jacket,Clothing,143,"$4,290",193,$30,No,70,Cloudy,$31.55,1241,Yes,2,Black Friday,1,170,Winter
+3/1/2025,Cozy Winter Jacket,Clothing,106,"$3,180",118,$30,No,70,Cloudy,$33.59,972,Yes,6,New Year Event,2,130,Winter
+3/2/2025,Cozy Winter Jacket,Clothing,134,"$4,020",131,$30,Yes,73,Cloudy,$27.18,826,Yes,5,Black Friday,3,132,Winter
+3/3/2025,Cozy Winter Jacket,Clothing,107,"$3,210",203,$30,No,80,Rainy,$34.99,1257,Yes,3,Black Friday,0,127,Winter
+3/4/2025,Cozy Winter Jacket,Clothing,154,"$4,620",68,$30,No,70,Rainy,$25.28,1170,Yes,2,None,2,131,Winter
+3/5/2025,Cozy Winter Jacket,Clothing,105,"$3,150",52,$30,No,76,Snowy,$30.19,853,Yes,3,New Year Event,3,129,Winter
+3/6/2025,Cozy Winter Jacket,Clothing,102,"$3,060",217,$30,Yes,73,Sunny,$33.40,832,Yes,3,New Year Event,1,125,Winter
+3/7/2025,Cozy Winter Jacket,Clothing,101,"$3,030",29,$30,Yes,78,Rainy,$30.80,1289,Yes,1,Holiday Sale,2,173,Winter
+3/8/2025,Cozy Winter Jacket,Clothing,153,"$4,590",125,$30,No,80,Snowy,$30.39,1087,No,3,Holiday Sale,0,154,Winter
+3/9/2025,Cozy Winter Jacket,Clothing,148,"$4,440",7,$30,No,79,Sunny,$29.92,1229,Yes,7,None,2,156,Winter
+3/10/2025,Cozy Winter Jacket,Clothing,105,"$3,150",212,$30,Yes,71,Rainy,$32.99,1122,No,3,Holiday Sale,5,156,Winter
+3/11/2025,Cozy Winter Jacket,Clothing,104,"$3,120",177,$30,No,73,Rainy,$31.26,1053,Yes,1,New Year Event,0,170,Winter
+3/12/2025,Cozy Winter Jacket,Clothing,140,"$4,200",285,$30,Yes,74,Snowy,$25.76,972,Yes,1,Holiday Sale,5,144,Winter
+3/13/2025,Cozy Winter Jacket,Clothing,134,"$4,020",68,$30,Yes,75,Sunny,$26.46,1101,Yes,4,None,5,143,Winter
+3/14/2025,Cozy Winter Jacket,Clothing,106,"$3,180",26,$30,No,72,Sunny,$26.78,1065,No,1,Holiday Sale,1,143,Winter
+3/15/2025,Cozy Winter Jacket,Clothing,129,"$3,870",168,$30,Yes,75,Cloudy,$32.57,1264,No,5,New Year Event,4,131,Winter
+3/16/2025,Cozy Winter Jacket,Clothing,129,"$3,870",42,$30,No,78,Rainy,$30.10,1298,No,7,None,5,127,Winter
+3/17/2025,Cozy Winter Jacket,Clothing,138,"$4,140",98,$30,No,71,Cloudy,$33.54,917,Yes,3,Holiday Sale,1,143,Winter
+3/18/2025,Cozy Winter Jacket,Clothing,105,"$3,150",128,$30,No,78,Cloudy,$29.19,1209,Yes,2,Holiday Sale,0,153,Winter
+3/19/2025,Cozy Winter Jacket,Clothing,151,"$4,530",100,$30,No,76,Sunny,$34.36,1238,No,6,Holiday Sale,2,128,Winter
+3/20/2025,Cozy Winter Jacket,Clothing,127,"$3,810",14,$30,No,72,Rainy,$28.40,1072,Yes,2,Black Friday,3,147,Winter
+3/21/2025,Cozy Winter Jacket,Clothing,134,"$4,020",87,$30,No,80,Rainy,$26.37,942,Yes,2,None,5,130,Winter
+3/22/2025,Cozy Winter Jacket,Clothing,129,"$3,870",263,$30,Yes,73,Cloudy,$31.81,1039,No,2,New Year Event,5,162,Winter
+3/23/2025,Cozy Winter Jacket,Clothing,154,"$4,620",120,$30,Yes,76,Sunny,$28.69,915,No,6,Black Friday,0,150,Winter
+3/24/2025,Cozy Winter Jacket,Clothing,105,"$3,150",132,$30,Yes,76,Rainy,$29.49,885,Yes,6,New Year Event,0,133,Winter
+3/25/2025,Cozy Winter Jacket,Clothing,130,"$3,900",48,$30,Yes,74,Sunny,$34.18,1073,No,1,Black Friday,5,126,Winter
+3/26/2025,Cozy Winter Jacket,Clothing,137,"$4,110",258,$30,No,76,Rainy,$30.85,1099,Yes,7,None,0,138,Winter
+3/27/2025,Cozy Winter Jacket,Clothing,149,"$4,470",207,$30,Yes,76,Snowy,$34.01,1292,Yes,1,Holiday Sale,0,171,Winter
+3/28/2025,Cozy Winter Jacket,Clothing,103,"$3,090",68,$30,Yes,78,Sunny,$31.14,1193,Yes,3,Black Friday,0,126,Winter
+3/29/2025,Cozy Winter Jacket,Clothing,145,"$4,350",60,$30,Yes,77,Rainy,$34.08,846,No,6,None,4,143,Winter
+3/30/2025,Cozy Winter Jacket,Clothing,138,"$4,140",96,$30,No,72,Cloudy,$27.11,1233,Yes,4,Black Friday,4,153,Winter
+3/31/2025,Cozy Winter Jacket,Clothing,115,"$3,450",154,$30,Yes,76,Sunny,$28.15,1201,Yes,3,None,2,140,Winter
+4/1/2025,Cozy Winter Jacket,Clothing,133,"$3,990",106,$30,Yes,72,Cloudy,$25.18,832,No,4,Holiday Sale,1,144,Winter
+4/2/2025,Cozy Winter Jacket,Clothing,135,"$4,050",201,$30,Yes,72,Sunny,$33.47,990,Yes,3,Holiday Sale,2,133,Winter
+4/3/2025,Cozy Winter Jacket,Clothing,133,"$3,990",290,$30,No,76,Sunny,$28.17,1093,No,2,Black Friday,5,131,Winter
+4/4/2025,Cozy Winter Jacket,Clothing,155,"$4,650",131,$30,No,77,Rainy,$31.98,870,Yes,5,None,1,169,Winter
+4/5/2025,Cozy Winter Jacket,Clothing,158,"$4,740",76,$30,Yes,76,Sunny,$32.43,856,Yes,6,New Year Event,2,133,Winter
+4/6/2025,Cozy Winter Jacket,Clothing,140,"$4,200",277,$30,Yes,79,Snowy,$27.95,1110,Yes,4,Holiday Sale,1,132,Winter
+4/7/2025,Cozy Winter Jacket,Clothing,102,"$3,060",221,$30,No,71,Snowy,$26.19,1124,Yes,3,New Year Event,3,154,Winter
+4/8/2025,Cozy Winter Jacket,Clothing,117,"$3,510",250,$30,Yes,72,Snowy,$29.07,1160,Yes,2,Holiday Sale,4,175,Winter
+4/9/2025,Cozy Winter Jacket,Clothing,121,"$3,630",146,$30,No,70,Cloudy,$33.96,919,No,5,None,5,136,Winter
+4/10/2025,Cozy Winter Jacket,Clothing,113,"$3,390",229,$30,No,76,Cloudy,$25.26,1163,No,7,None,3,165,Winter
+4/11/2025,Cozy Winter Jacket,Clothing,152,"$4,560",133,$30,No,71,Sunny,$33.07,1189,Yes,5,Holiday Sale,1,175,Winter
+4/12/2025,Cozy Winter Jacket,Clothing,122,"$3,660",273,$30,Yes,79,Cloudy,$27.45,1203,Yes,1,New Year Event,5,148,Winter
+4/13/2025,Cozy Winter Jacket,Clothing,141,"$4,230",57,$30,Yes,75,Sunny,$29.65,838,No,7,None,0,174,Winter
+4/14/2025,Cozy Winter Jacket,Clothing,111,"$3,330",97,$30,Yes,72,Sunny,$28.41,1000,Yes,6,Holiday Sale,5,125,Winter
+4/15/2025,Cozy Winter Jacket,Clothing,151,"$4,530",237,$30,Yes,79,Sunny,$27.58,879,No,3,None,3,165,Winter
+4/16/2025,Cozy Winter Jacket,Clothing,137,"$4,110",298,$30,No,73,Sunny,$28.37,896,Yes,4,Black Friday,0,128,Winter
+4/17/2025,Cozy Winter Jacket,Clothing,109,"$3,270",173,$30,No,77,Snowy,$31.79,1230,Yes,2,Black Friday,0,133,Winter
+4/18/2025,Cozy Winter Jacket,Clothing,102,"$3,060",112,$30,Yes,71,Cloudy,$28.84,1133,Yes,7,New Year Event,0,139,Winter
+4/19/2025,Cozy Winter Jacket,Clothing,133,"$3,990",66,$30,No,72,Rainy,$34.09,1271,Yes,1,None,3,134,Winter
+4/20/2025,Cozy Winter Jacket,Clothing,119,"$3,570",177,$30,No,77,Snowy,$28.58,939,Yes,4,Black Friday,5,136,Winter
+4/21/2025,Cozy Winter Jacket,Clothing,100,"$3,000",237,$30,No,70,Sunny,$33.69,1071,Yes,7,New Year Event,2,134,Winter
+4/22/2025,Cozy Winter Jacket,Clothing,100,"$3,000",221,$30,Yes,75,Sunny,$25.89,1063,No,2,None,4,173,Winter
+4/23/2025,Cozy Winter Jacket,Clothing,146,"$4,380",163,$30,Yes,70,Rainy,$26.87,1143,Yes,4,Black Friday,5,127,Winter
+4/24/2025,Cozy Winter Jacket,Clothing,138,"$4,140",125,$30,No,74,Snowy,$31.04,1180,No,6,New Year Event,3,135,Winter
+4/25/2025,Cozy Winter Jacket,Clothing,160,"$4,800",246,$30,Yes,71,Cloudy,$29.54,973,No,4,Holiday Sale,2,128,Winter
+4/26/2025,Cozy Winter Jacket,Clothing,106,"$3,180",269,$30,Yes,80,Rainy,$30.99,1241,Yes,6,Black Friday,2,166,Winter
+4/27/2025,Cozy Winter Jacket,Clothing,124,"$3,720",193,$30,Yes,79,Sunny,$27.30,1126,Yes,5,New Year Event,0,141,Winter
+4/28/2025,Cozy Winter Jacket,Clothing,107,"$3,210",208,$30,No,76,Rainy,$34.81,1081,No,5,Holiday Sale,4,159,Winter
+4/29/2025,Cozy Winter Jacket,Clothing,153,"$4,590",52,$30,Yes,79,Rainy,$34.26,1141,No,3,Holiday Sale,5,132,Winter
+4/30/2025,Cozy Winter Jacket,Clothing,140,"$4,200",262,$30,No,77,Cloudy,$27.63,976,No,7,None,1,142,Winter
+5/1/2025,Cozy Winter Jacket,Clothing,137,"$4,110",189,$30,No,72,Rainy,$26.46,1098,Yes,4,Holiday Sale,4,159,Winter
+5/2/2025,Cozy Winter Jacket,Clothing,124,"$3,720",38,$30,Yes,72,Rainy,$34.78,1211,Yes,7,Black Friday,5,168,Winter
+5/3/2025,Cozy Winter Jacket,Clothing,107,"$3,210",248,$30,No,73,Sunny,$27.86,1285,No,4,Holiday Sale,5,131,Winter
+5/4/2025,Cozy Winter Jacket,Clothing,101,"$3,030",126,$30,Yes,71,Snowy,$29.48,932,No,4,Holiday Sale,3,131,Winter
+5/5/2025,Cozy Winter Jacket,Clothing,156,"$4,680",280,$30,No,78,Cloudy,$26.84,1159,No,6,Black Friday,4,136,Winter
+5/6/2025,Cozy Winter Jacket,Clothing,135,"$4,050",60,$30,No,80,Rainy,$33.73,942,No,2,New Year Event,2,153,Winter
+5/7/2025,Cozy Winter Jacket,Clothing,158,"$4,740",74,$30,No,77,Sunny,$33.93,993,No,2,New Year Event,5,162,Winter
+5/8/2025,Cozy Winter Jacket,Clothing,128,"$3,840",134,$30,Yes,74,Sunny,$29.04,1009,Yes,4,Holiday Sale,0,166,Winter
+5/9/2025,Cozy Winter Jacket,Clothing,145,"$4,350",72,$30,Yes,72,Cloudy,$32.91,867,No,1,New Year Event,1,151,Winter
+5/10/2025,Cozy Winter Jacket,Clothing,141,"$4,230",258,$30,Yes,71,Cloudy,$31.20,1114,Yes,2,None,1,154,Winter
+5/11/2025,Cozy Winter Jacket,Clothing,113,"$3,390",256,$30,Yes,72,Sunny,$25.38,1246,Yes,4,Black Friday,3,157,Winter
+5/12/2025,Cozy Winter Jacket,Clothing,152,"$4,560",63,$30,Yes,77,Cloudy,$27.12,1132,Yes,2,Holiday Sale,2,156,Winter
+5/13/2025,Cozy Winter Jacket,Clothing,138,"$4,140",218,$30,No,75,Sunny,$27.35,976,Yes,4,New Year Event,5,174,Winter
+5/14/2025,Cozy Winter Jacket,Clothing,149,"$4,470",257,$30,Yes,71,Cloudy,$27.55,1118,No,6,Holiday Sale,5,169,Winter
+5/15/2025,Cozy Winter Jacket,Clothing,128,"$3,840",298,$30,Yes,76,Snowy,$25.05,1103,Yes,1,New Year Event,4,156,Winter
+5/16/2025,Cozy Winter Jacket,Clothing,140,"$4,200",98,$30,No,75,Snowy,$34.38,1172,No,2,Black Friday,3,141,Winter
+5/17/2025,Cozy Winter Jacket,Clothing,114,"$3,420",96,$30,No,78,Rainy,$29.02,881,Yes,7,New Year Event,2,140,Winter
+5/18/2025,Cozy Winter Jacket,Clothing,147,"$4,410",296,$30,No,76,Snowy,$28.76,1035,Yes,7,None,3,129,Winter
+5/19/2025,Cozy Winter Jacket,Clothing,132,"$3,960",84,$30,No,76,Cloudy,$30.33,1030,No,5,New Year Event,3,174,Winter
+5/20/2025,Cozy Winter Jacket,Clothing,143,"$4,290",106,$30,Yes,70,Rainy,$34.30,964,No,4,Holiday Sale,1,158,Winter
+5/21/2025,Cozy Winter Jacket,Clothing,125,"$3,750",81,$30,No,78,Rainy,$34.75,884,No,5,None,3,160,Winter
+5/22/2025,Cozy Winter Jacket,Clothing,105,"$3,150",3,$30,No,76,Rainy,$28.24,1155,No,7,None,4,171,Winter
+5/23/2025,Cozy Winter Jacket,Clothing,127,"$3,810",269,$30,Yes,77,Snowy,$29.32,1029,No,6,Holiday Sale,3,173,Winter
+5/24/2025,Cozy Winter Jacket,Clothing,118,"$3,540",193,$30,Yes,73,Cloudy,$26.90,1203,No,4,None,4,137,Winter
+5/25/2025,Cozy Winter Jacket,Clothing,149,"$4,470",250,$30,Yes,71,Sunny,$34.10,979,No,1,Black Friday,2,133,Winter
+5/26/2025,Cozy Winter Jacket,Clothing,137,"$4,110",244,$30,No,79,Sunny,$28.59,1128,Yes,5,Holiday Sale,4,143,Winter
+5/27/2025,Cozy Winter Jacket,Clothing,140,"$4,200",291,$30,No,75,Cloudy,$31.41,843,No,4,None,1,172,Winter
+5/28/2025,Cozy Winter Jacket,Clothing,147,"$4,410",51,$30,No,80,Sunny,$28.78,1123,Yes,6,Black Friday,4,157,Winter
+5/29/2025,Cozy Winter Jacket,Clothing,139,"$4,170",174,$30,Yes,72,Rainy,$28.38,911,Yes,6,Black Friday,4,162,Winter
+5/30/2025,Cozy Winter Jacket,Clothing,105,"$3,150",170,$30,Yes,76,Sunny,$27.89,1242,Yes,7,Black Friday,2,135,Winter
+5/31/2025,Cozy Winter Jacket,Clothing,104,"$3,120",287,$30,Yes,75,Cloudy,$32.54,1065,Yes,2,Holiday Sale,1,151,Winter
+6/1/2025,Cozy Winter Jacket,Clothing,151,"$4,530",234,$30,No,73,Sunny,$26.16,1260,Yes,5,Holiday Sale,1,150,Winter
+6/2/2025,Cozy Winter Jacket,Clothing,105,"$3,150",128,$30,Yes,74,Sunny,$34.47,1298,Yes,2,Holiday Sale,2,132,Winter
+6/3/2025,Cozy Winter Jacket,Clothing,108,"$3,240",32,$30,No,80,Snowy,$26.26,1125,No,4,Holiday Sale,4,172,Winter
+6/4/2025,Cozy Winter Jacket,Clothing,126,"$3,780",47,$30,No,76,Rainy,$29.85,941,Yes,3,Holiday Sale,4,131,Winter
+6/5/2025,Cozy Winter Jacket,Clothing,150,"$4,500",294,$30,Yes,70,Rainy,$31.62,966,No,6,Black Friday,4,150,Winter
+6/6/2025,Cozy Winter Jacket,Clothing,155,"$4,650",71,$30,Yes,72,Cloudy,$28.88,904,No,4,None,4,166,Winter
+6/7/2025,Cozy Winter Jacket,Clothing,102,"$3,060",65,$30,No,78,Rainy,$29.79,944,Yes,6,Holiday Sale,2,136,Winter
+6/8/2025,Cozy Winter Jacket,Clothing,156,"$4,680",242,$30,Yes,73,Rainy,$33.78,1208,Yes,6,New Year Event,5,149,Winter
+6/9/2025,Cozy Winter Jacket,Clothing,146,"$4,380",14,$30,No,73,Snowy,$34.73,887,No,2,New Year Event,2,139,Winter
+6/10/2025,Cozy Winter Jacket,Clothing,158,"$4,740",96,$30,Yes,70,Rainy,$31.43,1002,No,5,Holiday Sale,1,140,Winter
+6/11/2025,Cozy Winter Jacket,Clothing,154,"$4,620",195,$30,Yes,70,Rainy,$30.10,1204,No,2,None,3,173,Winter
+6/12/2025,Cozy Winter Jacket,Clothing,147,"$4,410",79,$30,Yes,79,Snowy,$34.62,1052,Yes,6,New Year Event,2,151,Winter
+6/13/2025,Cozy Winter Jacket,Clothing,101,"$3,030",118,$30,No,74,Sunny,$35.00,1244,Yes,1,None,4,174,Winter
+6/14/2025,Cozy Winter Jacket,Clothing,110,"$3,300",157,$30,Yes,76,Sunny,$28.97,1027,No,2,New Year Event,2,163,Winter
+6/15/2025,Cozy Winter Jacket,Clothing,155,"$4,650",133,$30,No,76,Cloudy,$33.07,878,Yes,5,New Year Event,2,159,Winter
+6/16/2025,Cozy Winter Jacket,Clothing,121,"$3,630",194,$30,No,77,Sunny,$33.53,1015,Yes,3,None,3,133,Winter
+6/17/2025,Cozy Winter Jacket,Clothing,113,"$3,390",128,$30,Yes,79,Cloudy,$30.02,1269,Yes,6,Black Friday,0,162,Winter
+6/18/2025,Cozy Winter Jacket,Clothing,101,"$3,030",189,$30,Yes,72,Snowy,$29.64,1168,No,6,Holiday Sale,4,146,Winter
+6/19/2025,Cozy Winter Jacket,Clothing,116,"$3,480",288,$30,Yes,72,Snowy,$31.31,1282,Yes,2,Holiday Sale,0,126,Winter
+6/20/2025,Cozy Winter Jacket,Clothing,149,"$4,470",183,$30,No,72,Snowy,$33.08,874,No,3,Black Friday,4,131,Winter
+6/21/2025,Cozy Winter Jacket,Clothing,108,"$3,240",28,$30,No,76,Sunny,$27.75,849,Yes,4,Black Friday,2,146,Winter
+6/22/2025,Cozy Winter Jacket,Clothing,115,"$3,450",209,$30,No,75,Cloudy,$29.18,1254,No,5,New Year Event,2,150,Winter
+6/23/2025,Cozy Winter Jacket,Clothing,157,"$4,710",197,$30,No,75,Sunny,$30.97,1079,Yes,7,Black Friday,4,126,Winter
+6/24/2025,Cozy Winter Jacket,Clothing,123,"$3,690",162,$30,No,71,Snowy,$32.90,843,Yes,7,New Year Event,0,172,Winter
+6/25/2025,Cozy Winter Jacket,Clothing,101,"$3,030",96,$30,Yes,76,Snowy,$31.95,1067,Yes,2,New Year Event,3,167,Winter
+6/26/2025,Cozy Winter Jacket,Clothing,134,"$4,020",3,$30,Yes,78,Rainy,$34.51,853,No,2,New Year Event,0,142,Winter
+6/27/2025,Cozy Winter Jacket,Clothing,157,"$4,710",143,$30,Yes,74,Sunny,$34.82,1177,Yes,3,Holiday Sale,3,162,Winter
+6/28/2025,Cozy Winter Jacket,Clothing,121,"$3,630",283,$30,No,72,Cloudy,$31.33,1031,Yes,6,Black Friday,2,152,Winter
+6/29/2025,Cozy Winter Jacket,Clothing,143,"$4,290",80,$30,Yes,73,Rainy,$25.04,1300,Yes,1,Holiday Sale,2,168,Winter
+6/30/2025,Cozy Winter Jacket,Clothing,124,"$3,720",89,$30,Yes,74,Snowy,$28.19,904,No,2,Black Friday,1,175,Winter
+7/1/2025,Cozy Winter Jacket,Clothing,159,"$4,770",292,$30,Yes,80,Sunny,$30.19,1166,No,4,Holiday Sale,2,131,Winter
+7/2/2025,Cozy Winter Jacket,Clothing,159,"$4,770",155,$30,No,76,Sunny,$28.43,978,Yes,3,None,0,155,Winter
+7/3/2025,Cozy Winter Jacket,Clothing,107,"$3,210",219,$30,Yes,74,Snowy,$33.41,872,No,2,New Year Event,1,170,Winter
+7/4/2025,Cozy Winter Jacket,Clothing,101,"$3,030",20,$30,Yes,77,Rainy,$26.69,1140,No,2,Black Friday,1,134,Winter
+7/5/2025,Cozy Winter Jacket,Clothing,138,"$4,140",206,$30,No,77,Sunny,$28.72,1041,No,5,Holiday Sale,1,148,Winter
+7/6/2025,Cozy Winter Jacket,Clothing,151,"$4,530",225,$30,No,80,Cloudy,$28.71,1002,Yes,4,Black Friday,4,137,Winter
+7/7/2025,Cozy Winter Jacket,Clothing,157,"$4,710",198,$30,Yes,77,Sunny,$25.74,1030,No,5,New Year Event,3,148,Winter
+7/8/2025,Cozy Winter Jacket,Clothing,106,"$3,180",66,$30,No,72,Sunny,$33.48,832,Yes,6,Holiday Sale,2,133,Winter
+7/9/2025,Cozy Winter Jacket,Clothing,129,"$3,870",166,$30,No,79,Sunny,$27.84,924,Yes,7,New Year Event,5,146,Winter
+7/10/2025,Cozy Winter Jacket,Clothing,114,"$3,420",158,$30,Yes,76,Sunny,$31.67,888,Yes,4,New Year Event,5,155,Winter
+7/11/2025,Cozy Winter Jacket,Clothing,103,"$3,090",234,$30,Yes,76,Sunny,$33.01,1041,No,6,Holiday Sale,0,164,Winter
+7/12/2025,Cozy Winter Jacket,Clothing,120,"$3,600",204,$30,No,77,Rainy,$25.39,1145,Yes,6,Holiday Sale,0,149,Winter
+7/13/2025,Cozy Winter Jacket,Clothing,156,"$4,680",172,$30,No,76,Snowy,$25.33,975,No,7,None,2,153,Winter
+7/14/2025,Cozy Winter Jacket,Clothing,155,"$4,650",114,$30,Yes,75,Cloudy,$27.48,1130,Yes,5,New Year Event,4,129,Winter
+7/15/2025,Cozy Winter Jacket,Clothing,139,"$4,170",235,$30,No,79,Rainy,$34.14,847,No,6,None,2,135,Winter
+7/16/2025,Cozy Winter Jacket,Clothing,146,"$4,380",7,$30,No,70,Rainy,$28.37,1101,Yes,7,None,4,141,Winter
+7/17/2025,Cozy Winter Jacket,Clothing,134,"$4,020",83,$30,No,76,Cloudy,$28.05,1045,No,7,None,2,128,Winter
+7/18/2025,Cozy Winter Jacket,Clothing,112,"$3,360",98,$30,Yes,77,Sunny,$34.81,837,Yes,7,Holiday Sale,1,163,Winter
+7/19/2025,Cozy Winter Jacket,Clothing,139,"$4,170",30,$30,No,74,Rainy,$28.23,1289,Yes,7,Holiday Sale,3,127,Winter
+7/20/2025,Cozy Winter Jacket,Clothing,145,"$4,350",74,$30,No,79,Cloudy,$28.14,844,Yes,7,None,3,153,Winter
+7/21/2025,Cozy Winter Jacket,Clothing,139,"$4,170",189,$30,No,79,Cloudy,$34.79,1268,Yes,2,New Year Event,2,161,Winter
+7/22/2025,Cozy Winter Jacket,Clothing,131,"$3,930",248,$30,No,75,Snowy,$28.20,1185,No,5,Black Friday,4,150,Winter
+7/23/2025,Cozy Winter Jacket,Clothing,148,"$4,440",232,$30,No,70,Cloudy,$31.41,1121,No,4,Black Friday,3,134,Winter
+7/24/2025,Cozy Winter Jacket,Clothing,101,"$3,030",123,$30,No,70,Rainy,$31.41,998,No,3,Holiday Sale,3,143,Winter
+7/25/2025,Cozy Winter Jacket,Clothing,123,"$3,690",60,$30,No,74,Snowy,$33.22,1251,No,3,Holiday Sale,4,132,Winter
+7/26/2025,Cozy Winter Jacket,Clothing,112,"$3,360",58,$30,Yes,80,Cloudy,$32.39,1071,No,4,None,4,134,Winter
+7/27/2025,Cozy Winter Jacket,Clothing,124,"$3,720",134,$30,No,77,Cloudy,$30.22,936,No,7,New Year Event,3,127,Winter
+7/28/2025,Cozy Winter Jacket,Clothing,114,"$3,420",111,$30,No,79,Rainy,$26.14,1006,Yes,3,Holiday Sale,0,146,Winter
+7/29/2025,Cozy Winter Jacket,Clothing,133,"$3,990",47,$30,Yes,74,Sunny,$28.21,930,Yes,3,Black Friday,3,134,Winter
+7/30/2025,Cozy Winter Jacket,Clothing,124,"$3,720",245,$30,Yes,70,Sunny,$28.96,1215,Yes,6,None,1,171,Winter
+7/31/2025,Cozy Winter Jacket,Clothing,108,"$3,240",30,$30,Yes,73,Snowy,$31.52,934,Yes,1,New Year Event,5,172,Winter
+8/1/2025,Cozy Winter Jacket,Clothing,142,"$4,260",289,$30,Yes,79,Snowy,$34.10,1175,Yes,4,None,0,146,Winter
+8/2/2025,Cozy Winter Jacket,Clothing,119,"$3,570",111,$30,No,72,Cloudy,$26.86,1246,No,3,None,5,173,Winter
+8/3/2025,Cozy Winter Jacket,Clothing,104,"$3,120",73,$30,Yes,72,Cloudy,$34.48,1221,Yes,6,New Year Event,4,139,Winter
+8/4/2025,Cozy Winter Jacket,Clothing,129,"$3,870",124,$30,Yes,79,Snowy,$25.46,823,Yes,6,Holiday Sale,0,155,Winter
+8/5/2025,Cozy Winter Jacket,Clothing,148,"$4,440",200,$30,No,74,Cloudy,$25.65,1268,No,7,New Year Event,2,150,Winter
+8/6/2025,Cozy Winter Jacket,Clothing,138,"$4,140",204,$30,Yes,80,Rainy,$33.35,868,Yes,5,None,5,150,Winter
+8/7/2025,Cozy Winter Jacket,Clothing,146,"$4,380",153,$30,No,70,Sunny,$29.57,875,No,3,Black Friday,2,140,Winter
+8/8/2025,Cozy Winter Jacket,Clothing,159,"$4,770",59,$30,No,76,Rainy,$27.85,1106,Yes,3,Holiday Sale,2,132,Winter
+8/9/2025,Cozy Winter Jacket,Clothing,123,"$3,690",9,$30,No,70,Rainy,$29.40,1203,No,4,None,5,131,Winter
+8/10/2025,Cozy Winter Jacket,Clothing,112,"$3,360",289,$30,Yes,73,Cloudy,$34.95,883,Yes,3,Holiday Sale,2,166,Winter
+8/11/2025,Cozy Winter Jacket,Clothing,116,"$3,480",163,$30,Yes,71,Cloudy,$25.58,928,No,2,Holiday Sale,0,130,Winter
+8/12/2025,Cozy Winter Jacket,Clothing,112,"$3,360",270,$30,No,72,Rainy,$28.12,1217,Yes,1,New Year Event,0,125,Winter
+8/13/2025,Cozy Winter Jacket,Clothing,152,"$4,560",93,$30,No,78,Snowy,$28.07,964,Yes,7,None,5,171,Winter
+8/14/2025,Cozy Winter Jacket,Clothing,127,"$3,810",180,$30,No,79,Sunny,$29.14,1004,No,7,None,2,142,Winter
+8/15/2025,Cozy Winter Jacket,Clothing,153,"$4,590",212,$30,Yes,77,Cloudy,$28.76,1058,No,3,None,2,165,Winter
+8/16/2025,Cozy Winter Jacket,Clothing,122,"$3,660",166,$30,Yes,71,Cloudy,$32.72,1086,No,6,New Year Event,3,145,Winter
+8/17/2025,Cozy Winter Jacket,Clothing,155,"$4,650",38,$30,Yes,72,Cloudy,$28.86,927,No,7,New Year Event,4,148,Winter
+8/18/2025,Cozy Winter Jacket,Clothing,107,"$3,210",276,$30,No,77,Rainy,$33.37,1095,Yes,6,New Year Event,3,130,Winter
+8/19/2025,Cozy Winter Jacket,Clothing,151,"$4,530",254,$30,Yes,78,Rainy,$27.81,1059,No,7,Black Friday,3,141,Winter
+8/20/2025,Cozy Winter Jacket,Clothing,136,"$4,080",181,$30,Yes,74,Snowy,$31.79,1036,Yes,4,Black Friday,2,138,Winter
+8/21/2025,Cozy Winter Jacket,Clothing,155,"$4,650",236,$30,No,74,Sunny,$31.19,1245,Yes,5,Holiday Sale,4,151,Winter
+8/22/2025,Cozy Winter Jacket,Clothing,127,"$3,810",118,$30,No,75,Rainy,$26.28,839,No,3,None,5,168,Winter
+8/23/2025,Cozy Winter Jacket,Clothing,141,"$4,230",94,$30,Yes,77,Cloudy,$31.05,826,No,2,Black Friday,3,141,Winter
+8/24/2025,Cozy Winter Jacket,Clothing,141,"$4,230",40,$30,No,73,Snowy,$33.41,1166,Yes,2,Black Friday,1,138,Winter
+8/25/2025,Cozy Winter Jacket,Clothing,116,"$3,480",262,$30,No,70,Cloudy,$25.30,943,Yes,6,None,5,164,Winter
+8/26/2025,Cozy Winter Jacket,Clothing,118,"$3,540",262,$30,Yes,79,Rainy,$30.43,1203,No,6,New Year Event,3,171,Winter
+8/27/2025,Cozy Winter Jacket,Clothing,159,"$4,770",172,$30,Yes,73,Snowy,$30.86,981,No,4,Black Friday,5,136,Winter
+8/28/2025,Cozy Winter Jacket,Clothing,105,"$3,150",153,$30,Yes,72,Rainy,$28.32,1153,Yes,7,Black Friday,4,159,Winter
+8/29/2025,Cozy Winter Jacket,Clothing,127,"$3,810",8,$30,No,73,Rainy,$26.67,1189,Yes,2,None,4,148,Winter
+8/30/2025,Cozy Winter Jacket,Clothing,114,"$3,420",294,$30,Yes,77,Rainy,$31.00,1267,Yes,3,Holiday Sale,0,134,Winter
+8/31/2025,Cozy Winter Jacket,Clothing,108,"$3,240",250,$30,No,72,Snowy,$26.63,990,Yes,4,New Year Event,2,141,Winter
+9/1/2025,Cozy Winter Jacket,Clothing,159,"$4,770",276,$30,No,72,Cloudy,$27.78,1109,Yes,2,New Year Event,2,126,Winter
+9/2/2025,Cozy Winter Jacket,Clothing,120,"$3,600",288,$30,Yes,78,Cloudy,$27.91,1196,No,4,Black Friday,2,140,Winter
+9/3/2025,Cozy Winter Jacket,Clothing,101,"$3,030",282,$30,No,71,Snowy,$26.75,1054,No,4,New Year Event,5,167,Winter
+9/4/2025,Cozy Winter Jacket,Clothing,120,"$3,600",210,$30,No,72,Snowy,$33.32,979,No,4,New Year Event,3,136,Winter
+9/5/2025,Cozy Winter Jacket,Clothing,107,"$3,210",36,$30,Yes,74,Snowy,$28.93,1136,No,7,None,0,145,Winter
+9/6/2025,Cozy Winter Jacket,Clothing,150,"$4,500",186,$30,No,75,Rainy,$34.10,1111,No,7,Holiday Sale,2,141,Winter
+9/7/2025,Cozy Winter Jacket,Clothing,104,"$3,120",155,$30,Yes,79,Sunny,$32.57,1018,No,1,New Year Event,1,167,Winter
+9/8/2025,Cozy Winter Jacket,Clothing,154,"$4,620",297,$30,No,70,Rainy,$28.93,1036,Yes,3,New Year Event,0,141,Winter
+9/9/2025,Cozy Winter Jacket,Clothing,131,"$3,930",277,$30,Yes,79,Cloudy,$31.20,856,Yes,3,None,5,133,Winter
+9/10/2025,Cozy Winter Jacket,Clothing,102,"$3,060",262,$30,No,78,Sunny,$32.55,848,No,7,New Year Event,4,152,Winter
+9/11/2025,Cozy Winter Jacket,Clothing,106,"$3,180",246,$30,No,80,Cloudy,$28.59,1219,Yes,2,New Year Event,3,173,Winter
+9/12/2025,Cozy Winter Jacket,Clothing,151,"$4,530",85,$30,No,78,Snowy,$26.16,1277,Yes,6,Holiday Sale,3,142,Winter
+9/13/2025,Cozy Winter Jacket,Clothing,101,"$3,030",70,$30,Yes,73,Cloudy,$31.52,957,Yes,6,None,3,153,Winter
+9/14/2025,Cozy Winter Jacket,Clothing,153,"$4,590",225,$30,No,73,Cloudy,$31.93,1159,Yes,6,Holiday Sale,0,164,Winter
+9/15/2025,Cozy Winter Jacket,Clothing,154,"$4,620",27,$30,Yes,73,Snowy,$32.61,1261,No,4,Black Friday,0,169,Winter
+9/16/2025,Cozy Winter Jacket,Clothing,123,"$3,690",1,$30,Yes,71,Rainy,$27.66,995,Yes,2,Holiday Sale,5,127,Winter
+9/17/2025,Cozy Winter Jacket,Clothing,148,"$4,440",80,$30,Yes,73,Rainy,$33.38,1187,Yes,1,New Year Event,0,140,Winter
+9/18/2025,Cozy Winter Jacket,Clothing,134,"$4,020",103,$30,No,72,Sunny,$29.04,1091,No,5,New Year Event,4,131,Winter
+9/19/2025,Cozy Winter Jacket,Clothing,148,"$4,440",146,$30,Yes,71,Cloudy,$28.26,935,No,5,None,3,172,Winter
+9/20/2025,Cozy Winter Jacket,Clothing,102,"$3,060",229,$30,Yes,75,Cloudy,$27.61,908,Yes,4,New Year Event,3,141,Winter
+9/21/2025,Cozy Winter Jacket,Clothing,103,"$3,090",154,$30,Yes,71,Rainy,$30.78,1220,Yes,2,Black Friday,0,157,Winter
+9/22/2025,Cozy Winter Jacket,Clothing,158,"$4,740",127,$30,Yes,74,Cloudy,$25.36,1024,No,7,Black Friday,5,134,Winter
+9/23/2025,Cozy Winter Jacket,Clothing,141,"$4,230",268,$30,Yes,77,Sunny,$29.56,874,Yes,1,Holiday Sale,4,142,Winter
+9/24/2025,Cozy Winter Jacket,Clothing,143,"$4,290",102,$30,No,72,Cloudy,$28.80,1013,No,7,New Year Event,0,149,Winter
+9/25/2025,Cozy Winter Jacket,Clothing,152,"$4,560",19,$30,No,78,Rainy,$25.29,1205,Yes,5,Black Friday,3,165,Winter
+9/26/2025,Cozy Winter Jacket,Clothing,146,"$4,380",141,$30,No,74,Sunny,$31.72,1222,Yes,7,Holiday Sale,3,126,Winter
+9/27/2025,Cozy Winter Jacket,Clothing,127,"$3,810",2,$30,No,77,Sunny,$26.59,1068,No,7,Holiday Sale,5,167,Winter
+9/28/2025,Cozy Winter Jacket,Clothing,157,"$4,710",227,$30,Yes,80,Sunny,$26.43,1111,No,4,None,5,174,Winter
+9/29/2025,Cozy Winter Jacket,Clothing,114,"$3,420",210,$30,No,76,Rainy,$26.48,1046,Yes,1,Black Friday,0,145,Winter
+9/30/2025,Cozy Winter Jacket,Clothing,118,"$3,540",300,$30,No,80,Snowy,$28.20,847,No,3,Holiday Sale,2,169,Winter
+10/1/2025,Cozy Winter Jacket,Clothing,152,"$4,560",104,$30,Yes,76,Sunny,$30.67,828,Yes,1,New Year Event,2,128,Winter
+10/2/2025,Cozy Winter Jacket,Clothing,140,"$4,200",55,$30,No,80,Snowy,$31.88,1081,No,4,New Year Event,5,154,Winter
+10/3/2025,Cozy Winter Jacket,Clothing,134,"$4,020",178,$30,Yes,73,Rainy,$28.40,1125,No,7,None,2,147,Winter
+10/4/2025,Cozy Winter Jacket,Clothing,135,"$4,050",52,$30,No,77,Rainy,$25.92,1108,Yes,4,New Year Event,4,129,Winter
+10/5/2025,Cozy Winter Jacket,Clothing,149,"$4,470",36,$30,No,70,Cloudy,$34.35,909,Yes,5,New Year Event,2,128,Winter
+10/6/2025,Cozy Winter Jacket,Clothing,151,"$4,530",69,$30,No,74,Rainy,$33.79,1060,No,1,None,2,148,Winter
+10/7/2025,Cozy Winter Jacket,Clothing,128,"$3,840",99,$30,Yes,71,Cloudy,$27.37,1148,Yes,4,Holiday Sale,2,153,Winter
+10/8/2025,Cozy Winter Jacket,Clothing,126,"$3,780",25,$30,Yes,70,Sunny,$32.56,1096,Yes,1,Holiday Sale,1,169,Winter
+10/9/2025,Cozy Winter Jacket,Clothing,105,"$3,150",237,$30,No,70,Sunny,$34.38,1225,Yes,5,None,2,129,Winter
+10/10/2025,Cozy Winter Jacket,Clothing,139,"$4,170",184,$30,No,76,Snowy,$34.53,1069,Yes,1,None,3,130,Winter
+10/11/2025,Cozy Winter Jacket,Clothing,137,"$4,110",73,$30,Yes,76,Rainy,$26.65,871,Yes,2,Black Friday,3,173,Winter
+10/12/2025,Cozy Winter Jacket,Clothing,147,"$4,410",89,$30,Yes,70,Sunny,$32.57,1022,No,5,None,0,167,Winter
+10/13/2025,Cozy Winter Jacket,Clothing,106,"$3,180",288,$30,Yes,75,Sunny,$32.16,1097,No,5,New Year Event,3,167,Winter
+10/14/2025,Cozy Winter Jacket,Clothing,125,"$3,750",161,$30,No,70,Cloudy,$30.19,934,Yes,3,Holiday Sale,1,169,Winter
+10/15/2025,Cozy Winter Jacket,Clothing,132,"$3,960",185,$30,Yes,80,Snowy,$26.70,1238,Yes,2,None,1,139,Winter
+10/16/2025,Cozy Winter Jacket,Clothing,108,"$3,240",166,$30,No,70,Cloudy,$25.42,1211,No,1,None,3,151,Winter
+10/17/2025,Cozy Winter Jacket,Clothing,119,"$3,570",259,$30,No,78,Sunny,$34.49,999,Yes,4,Holiday Sale,4,150,Winter
+10/18/2025,Cozy Winter Jacket,Clothing,107,"$3,210",176,$30,Yes,72,Sunny,$29.60,1084,No,4,New Year Event,2,167,Winter
+10/19/2025,Cozy Winter Jacket,Clothing,104,"$3,120",19,$30,Yes,75,Snowy,$31.90,968,Yes,2,New Year Event,4,144,Winter
+10/20/2025,Cozy Winter Jacket,Clothing,155,"$4,650",267,$30,Yes,76,Cloudy,$32.44,925,Yes,3,Holiday Sale,3,164,Winter
+10/21/2025,Cozy Winter Jacket,Clothing,114,"$3,420",83,$30,No,74,Rainy,$25.98,1223,No,1,New Year Event,4,151,Winter
+10/22/2025,Cozy Winter Jacket,Clothing,141,"$4,230",108,$30,Yes,73,Snowy,$34.01,911,No,1,Holiday Sale,2,167,Winter
+10/23/2025,Cozy Winter Jacket,Clothing,109,"$3,270",242,$30,No,73,Sunny,$25.46,998,No,2,New Year Event,4,132,Winter
+10/24/2025,Cozy Winter Jacket,Clothing,146,"$4,380",90,$30,No,71,Cloudy,$33.49,1202,No,5,New Year Event,4,153,Winter
+10/25/2025,Cozy Winter Jacket,Clothing,126,"$3,780",279,$30,No,78,Sunny,$25.48,1017,No,5,New Year Event,1,147,Winter
+10/26/2025,Cozy Winter Jacket,Clothing,154,"$4,620",297,$30,Yes,80,Rainy,$32.33,952,Yes,1,New Year Event,5,125,Winter
+10/27/2025,Cozy Winter Jacket,Clothing,125,"$3,750",197,$30,Yes,78,Cloudy,$32.91,924,Yes,5,New Year Event,4,150,Winter
+10/28/2025,Cozy Winter Jacket,Clothing,129,"$3,870",26,$30,Yes,74,Sunny,$34.73,1022,No,6,Black Friday,0,151,Winter
+10/29/2025,Cozy Winter Jacket,Clothing,148,"$4,440",154,$30,No,71,Rainy,$29.58,1176,No,1,New Year Event,3,144,Winter
+10/30/2025,Cozy Winter Jacket,Clothing,104,"$3,120",136,$30,Yes,77,Snowy,$27.22,1253,Yes,1,New Year Event,4,164,Winter
+10/31/2025,Cozy Winter Jacket,Clothing,111,"$3,330",54,$30,No,73,Rainy,$28.69,1075,No,4,Holiday Sale,0,155,Winter
+11/1/2025,Cozy Winter Jacket,Clothing,127,"$3,810",53,$30,Yes,70,Rainy,$29.48,1019,No,4,None,2,163,Winter
+11/2/2025,Cozy Winter Jacket,Clothing,111,"$3,330",58,$30,No,77,Snowy,$26.72,855,Yes,5,New Year Event,0,132,Winter
+11/3/2025,Cozy Winter Jacket,Clothing,113,"$3,390",71,$30,No,76,Rainy,$30.27,1215,Yes,6,Holiday Sale,0,159,Winter
+11/4/2025,Cozy Winter Jacket,Clothing,145,"$4,350",262,$30,No,77,Sunny,$28.62,1248,Yes,4,None,0,175,Winter
+11/5/2025,Cozy Winter Jacket,Clothing,154,"$4,620",82,$30,Yes,77,Rainy,$33.62,1298,No,4,None,4,133,Winter
+11/6/2025,Cozy Winter Jacket,Clothing,112,"$3,360",49,$30,Yes,76,Snowy,$34.19,996,No,2,Holiday Sale,0,129,Winter
+11/7/2025,Cozy Winter Jacket,Clothing,157,"$4,710",59,$30,No,78,Cloudy,$29.58,829,No,1,New Year Event,0,145,Winter
+11/8/2025,Cozy Winter Jacket,Clothing,127,"$3,810",51,$30,Yes,75,Cloudy,$30.24,1169,No,1,New Year Event,2,140,Winter
+11/9/2025,Cozy Winter Jacket,Clothing,120,"$3,600",244,$30,Yes,80,Cloudy,$34.31,1029,Yes,5,None,2,140,Winter
+11/10/2025,Cozy Winter Jacket,Clothing,156,"$4,680",68,$30,No,75,Snowy,$33.69,992,Yes,7,Black Friday,5,131,Winter
+11/11/2025,Cozy Winter Jacket,Clothing,133,"$3,990",63,$30,No,70,Sunny,$32.27,852,No,5,None,3,127,Winter
+11/12/2025,Cozy Winter Jacket,Clothing,104,"$3,120",213,$30,No,75,Cloudy,$34.44,899,No,5,New Year Event,0,174,Winter
+11/13/2025,Cozy Winter Jacket,Clothing,100,"$3,000",16,$30,Yes,74,Snowy,$30.84,1102,Yes,3,Holiday Sale,5,157,Winter
+11/14/2025,Cozy Winter Jacket,Clothing,148,"$4,440",61,$30,No,75,Cloudy,$32.66,1148,No,5,Holiday Sale,4,168,Winter
+11/15/2025,Cozy Winter Jacket,Clothing,141,"$4,230",179,$30,No,77,Snowy,$29.99,876,No,6,Black Friday,1,175,Winter
+11/16/2025,Cozy Winter Jacket,Clothing,138,"$4,140",279,$30,No,77,Snowy,$31.68,1059,Yes,3,None,5,130,Winter
+11/17/2025,Cozy Winter Jacket,Clothing,155,"$4,650",129,$30,Yes,80,Sunny,$27.18,1174,No,4,Black Friday,0,175,Winter
+11/18/2025,Cozy Winter Jacket,Clothing,104,"$3,120",167,$30,No,75,Sunny,$34.72,857,Yes,6,None,0,164,Winter
+11/19/2025,Cozy Winter Jacket,Clothing,125,"$3,750",33,$30,Yes,71,Cloudy,$30.35,1125,Yes,7,Holiday Sale,4,141,Winter
+11/20/2025,Cozy Winter Jacket,Clothing,155,"$4,650",115,$30,No,70,Rainy,$33.80,1282,Yes,6,Holiday Sale,2,144,Winter
+11/21/2025,Cozy Winter Jacket,Clothing,158,"$4,740",275,$30,Yes,73,Cloudy,$25.52,986,Yes,7,None,3,151,Winter
+11/22/2025,Cozy Winter Jacket,Clothing,138,"$4,140",292,$30,Yes,71,Cloudy,$26.70,1156,No,1,Holiday Sale,2,153,Winter
+11/23/2025,Cozy Winter Jacket,Clothing,142,"$4,260",239,$30,No,76,Rainy,$25.97,1077,No,6,None,3,150,Winter
+11/24/2025,Cozy Winter Jacket,Clothing,151,"$4,530",274,$30,No,72,Cloudy,$29.28,803,No,1,New Year Event,2,125,Winter
+11/25/2025,Cozy Winter Jacket,Clothing,142,"$4,260",13,$30,Yes,73,Rainy,$25.91,834,No,7,Holiday Sale,0,172,Winter
+11/26/2025,Cozy Winter Jacket,Clothing,131,"$3,930",59,$30,Yes,71,Cloudy,$31.96,1186,No,3,None,5,169,Winter
+11/27/2025,Cozy Winter Jacket,Clothing,152,"$4,560",195,$30,No,70,Snowy,$32.10,862,Yes,4,New Year Event,2,135,Winter
+11/28/2025,Cozy Winter Jacket,Clothing,106,"$3,180",230,$30,No,72,Snowy,$27.82,879,Yes,7,Black Friday,5,146,Winter
+11/29/2025,Cozy Winter Jacket,Clothing,107,"$3,210",21,$30,Yes,74,Snowy,$34.92,801,Yes,7,Black Friday,0,174,Winter
+11/30/2025,Cozy Winter Jacket,Clothing,144,"$4,320",282,$30,No,73,Sunny,$32.34,804,No,7,Black Friday,3,159,Winter
+12/1/2025,Cozy Winter Jacket,Clothing,157,"$4,710",289,$30,No,71,Cloudy,$32.40,985,Yes,6,Holiday Sale,1,165,Winter
+12/2/2025,Cozy Winter Jacket,Clothing,126,"$3,780",139,$30,Yes,80,Rainy,$26.99,991,No,3,None,2,155,Winter
+12/3/2025,Cozy Winter Jacket,Clothing,154,"$4,620",261,$30,No,79,Snowy,$27.15,1036,Yes,3,Holiday Sale,0,132,Winter
+12/4/2025,Cozy Winter Jacket,Clothing,153,"$4,590",57,$30,Yes,75,Sunny,$31.58,814,Yes,3,None,2,139,Winter
+12/5/2025,Cozy Winter Jacket,Clothing,134,"$4,020",21,$30,No,75,Rainy,$28.04,896,Yes,7,Holiday Sale,4,132,Winter
+12/6/2025,Cozy Winter Jacket,Clothing,114,"$3,420",282,$30,No,79,Sunny,$33.79,1180,Yes,4,Holiday Sale,4,167,Winter
+12/7/2025,Cozy Winter Jacket,Clothing,138,"$4,140",284,$30,No,72,Cloudy,$29.26,951,No,7,New Year Event,2,150,Winter
+12/8/2025,Cozy Winter Jacket,Clothing,156,"$4,680",283,$30,No,75,Snowy,$32.69,1165,Yes,6,None,5,125,Winter
+12/9/2025,Cozy Winter Jacket,Clothing,137,"$4,110",3,$30,No,71,Snowy,$25.97,1212,Yes,1,Holiday Sale,0,129,Winter
+12/10/2025,Cozy Winter Jacket,Clothing,108,"$3,240",140,$30,No,74,Cloudy,$27.75,856,No,6,New Year Event,5,169,Winter
+12/11/2025,Cozy Winter Jacket,Clothing,153,"$4,590",173,$30,No,74,Sunny,$30.76,1051,No,5,New Year Event,2,131,Winter
+12/12/2025,Cozy Winter Jacket,Clothing,142,"$4,260",141,$30,No,77,Sunny,$25.53,1087,Yes,1,Holiday Sale,3,156,Winter
+12/13/2025,Cozy Winter Jacket,Clothing,106,"$3,180",269,$30,Yes,72,Sunny,$32.92,960,Yes,3,None,0,162,Winter
+12/14/2025,Cozy Winter Jacket,Clothing,119,"$3,570",50,$30,Yes,71,Sunny,$26.17,1293,Yes,1,Holiday Sale,1,157,Winter
+12/15/2025,Cozy Winter Jacket,Clothing,107,"$3,210",296,$30,Yes,80,Rainy,$31.51,992,No,5,Holiday Sale,5,149,Winter
+12/16/2025,Cozy Winter Jacket,Clothing,158,"$4,740",231,$30,No,70,Cloudy,$33.19,854,Yes,1,New Year Event,0,138,Winter
+12/17/2025,Cozy Winter Jacket,Clothing,109,"$3,270",98,$30,No,74,Sunny,$32.62,1208,Yes,3,Black Friday,5,173,Winter
+12/18/2025,Cozy Winter Jacket,Clothing,102,"$3,060",195,$30,Yes,73,Cloudy,$25.87,1241,No,6,None,0,161,Winter
+12/19/2025,Cozy Winter Jacket,Clothing,146,"$4,380",274,$30,Yes,78,Rainy,$27.09,1191,No,6,None,4,153,Winter
+12/20/2025,Cozy Winter Jacket,Clothing,156,"$4,680",238,$30,Yes,72,Cloudy,$31.37,1030,No,4,Black Friday,1,138,Winter
+12/21/2025,Cozy Winter Jacket,Clothing,143,"$4,290",97,$30,Yes,70,Rainy,$28.93,1258,No,7,Black Friday,1,125,Winter
+12/22/2025,Cozy Winter Jacket,Clothing,137,"$4,110",21,$30,No,70,Cloudy,$32.84,849,No,1,Holiday Sale,3,168,Winter
+12/23/2025,Cozy Winter Jacket,Clothing,116,"$3,480",95,$30,Yes,77,Cloudy,$33.82,1284,No,4,Holiday Sale,1,142,Winter
+12/24/2025,Cozy Winter Jacket,Clothing,152,"$4,560",60,$30,No,76,Snowy,$26.91,1049,No,4,New Year Event,0,144,Winter
+12/25/2025,Cozy Winter Jacket,Clothing,131,"$3,930",20,$30,Yes,72,Snowy,$28.44,1249,Yes,5,Holiday Sale,5,139,Winter
+12/26/2025,Cozy Winter Jacket,Clothing,147,"$4,410",116,$30,No,80,Sunny,$32.27,1094,No,2,None,5,134,Winter
+12/27/2025,Cozy Winter Jacket,Clothing,108,"$3,240",281,$30,No,73,Cloudy,$33.94,1122,Yes,1,None,1,126,Winter
+12/28/2025,Cozy Winter Jacket,Clothing,111,"$3,330",171,$30,Yes,72,Snowy,$26.36,1049,No,5,None,1,142,Winter
+12/29/2025,Cozy Winter Jacket,Clothing,107,"$3,210",156,$30,No,80,Cloudy,$25.41,1043,Yes,7,None,3,137,Winter
+12/30/2025,Cozy Winter Jacket,Clothing,106,"$3,180",119,$30,Yes,73,Rainy,$26.48,943,No,2,New Year Event,1,128,Winter
+12/31/2025,Cozy Winter Jacket,Clothing,134,"$4,020",39,$30,Yes,74,Sunny,$27.91,1048,Yes,5,None,1,128,Winter
+1/1/2026,Cozy Winter Jacket,Clothing,142,"$4,260",181,$30,No,78,Snowy,$33.48,1045,Yes,3,Holiday Sale,4,155,Winter
+1/2/2026,Cozy Winter Jacket,Clothing,110,"$3,300",1,$30,Yes,78,Sunny,$27.17,827,No,2,Black Friday,3,137,Winter
+1/3/2026,Cozy Winter Jacket,Clothing,129,"$3,870",217,$30,No,72,Rainy,$29.63,1249,No,2,Holiday Sale,3,125,Winter
+1/4/2026,Cozy Winter Jacket,Clothing,127,"$3,810",186,$30,Yes,80,Cloudy,$31.76,1122,Yes,1,New Year Event,0,161,Winter
+1/5/2026,Cozy Winter Jacket,Clothing,154,"$4,620",284,$30,No,79,Rainy,$27.66,1190,No,5,Black Friday,1,159,Winter
+1/6/2026,Cozy Winter Jacket,Clothing,145,"$4,350",70,$30,No,77,Rainy,$25.23,967,Yes,3,Black Friday,4,147,Winter
+1/7/2026,Cozy Winter Jacket,Clothing,140,"$4,200",35,$30,No,71,Sunny,$30.49,893,Yes,2,Black Friday,4,156,Winter
+1/8/2026,Cozy Winter Jacket,Clothing,105,"$3,150",94,$30,Yes,72,Cloudy,$26.71,1201,Yes,5,None,0,175,Winter
+1/9/2026,Cozy Winter Jacket,Clothing,152,"$4,560",128,$30,No,72,Rainy,$25.83,1248,Yes,3,Holiday Sale,1,126,Winter
+1/10/2026,Cozy Winter Jacket,Clothing,158,"$4,740",120,$30,Yes,78,Snowy,$31.99,857,Yes,6,Holiday Sale,4,131,Winter
+1/11/2026,Cozy Winter Jacket,Clothing,137,"$4,110",242,$30,No,75,Sunny,$32.57,1180,Yes,7,None,4,164,Winter
+1/12/2026,Cozy Winter Jacket,Clothing,134,"$4,020",84,$30,No,70,Cloudy,$30.75,1057,Yes,6,None,4,148,Winter
+1/13/2026,Cozy Winter Jacket,Clothing,115,"$3,450",0,$30,No,79,Cloudy,$25.75,865,Yes,4,Black Friday,4,149,Winter
+1/14/2026,Cozy Winter Jacket,Clothing,104,"$3,120",146,$30,Yes,79,Sunny,$25.34,1167,No,2,Holiday Sale,1,129,Winter
+1/15/2026,Cozy Winter Jacket,Clothing,119,"$3,570",27,$30,No,78,Cloudy,$34.35,1019,No,2,New Year Event,4,143,Winter
+1/16/2026,Cozy Winter Jacket,Clothing,147,"$4,410",151,$30,No,75,Cloudy,$33.57,1190,No,3,Holiday Sale,4,126,Winter
+1/17/2026,Cozy Winter Jacket,Clothing,138,"$4,140",202,$30,No,70,Snowy,$27.03,894,Yes,2,Black Friday,1,171,Winter
+1/18/2026,Cozy Winter Jacket,Clothing,135,"$4,050",23,$30,No,78,Sunny,$34.74,970,No,4,None,1,160,Winter
+1/19/2026,Cozy Winter Jacket,Clothing,155,"$4,650",91,$30,Yes,70,Sunny,$30.39,1001,No,3,Black Friday,5,137,Winter
+1/20/2026,Cozy Winter Jacket,Clothing,155,"$4,650",109,$30,No,75,Sunny,$32.67,1111,No,5,New Year Event,2,141,Winter
+1/21/2026,Cozy Winter Jacket,Clothing,160,"$4,800",105,$30,No,72,Cloudy,$34.57,1085,Yes,2,Holiday Sale,0,158,Winter
+1/22/2026,Cozy Winter Jacket,Clothing,115,"$3,450",7,$30,Yes,73,Cloudy,$33.33,1132,No,4,New Year Event,5,164,Winter
+1/23/2026,Cozy Winter Jacket,Clothing,134,"$4,020",267,$30,Yes,72,Rainy,$28.31,908,No,7,None,1,162,Winter
+1/24/2026,Cozy Winter Jacket,Clothing,107,"$3,210",79,$30,Yes,70,Sunny,$28.37,1012,No,6,None,0,152,Winter
+1/25/2026,Cozy Winter Jacket,Clothing,113,"$3,390",7,$30,Yes,75,Sunny,$29.93,1098,No,6,Holiday Sale,2,126,Winter
+1/26/2026,Cozy Winter Jacket,Clothing,129,"$3,870",164,$30,Yes,70,Snowy,$31.22,1020,Yes,6,None,0,160,Winter
+1/27/2026,Cozy Winter Jacket,Clothing,115,"$3,450",97,$30,No,73,Rainy,$28.07,936,Yes,5,Black Friday,0,143,Winter
+1/28/2026,Cozy Winter Jacket,Clothing,101,"$3,030",109,$30,Yes,76,Cloudy,$29.85,1017,No,5,Holiday Sale,1,142,Winter
+1/29/2026,Cozy Winter Jacket,Clothing,145,"$4,350",228,$30,No,78,Sunny,$30.44,880,No,4,Black Friday,3,167,Winter
+1/30/2026,Cozy Winter Jacket,Clothing,131,"$3,930",24,$30,Yes,71,Rainy,$34.30,1272,No,4,Holiday Sale,2,144,Winter
+1/31/2026,Cozy Winter Jacket,Clothing,144,"$4,320",137,$30,No,80,Snowy,$33.66,939,Yes,1,Black Friday,5,159,Winter
+2/1/2026,Cozy Winter Jacket,Clothing,126,"$3,780",90,$30,Yes,80,Snowy,$26.20,837,No,5,Holiday Sale,3,170,Winter
+2/2/2026,Cozy Winter Jacket,Clothing,113,"$3,390",159,$30,Yes,70,Snowy,$28.95,865,Yes,6,Black Friday,4,127,Winter
+2/3/2026,Cozy Winter Jacket,Clothing,124,"$3,720",140,$30,No,75,Snowy,$31.47,1033,No,1,Holiday Sale,0,132,Winter
+2/4/2026,Cozy Winter Jacket,Clothing,144,"$4,320",73,$30,No,78,Snowy,$30.15,1225,No,7,New Year Event,0,133,Winter
+2/5/2026,Cozy Winter Jacket,Clothing,148,"$4,440",31,$30,Yes,72,Snowy,$26.03,891,Yes,6,Black Friday,0,129,Winter
+2/6/2026,Cozy Winter Jacket,Clothing,137,"$4,110",200,$30,Yes,77,Cloudy,$26.72,1297,No,6,New Year Event,1,133,Winter
+2/7/2026,Cozy Winter Jacket,Clothing,116,"$3,480",289,$30,No,78,Sunny,$31.26,974,Yes,7,Black Friday,0,151,Winter
+2/8/2026,Cozy Winter Jacket,Clothing,112,"$3,360",240,$30,No,75,Rainy,$29.85,840,Yes,6,New Year Event,5,125,Winter
+2/9/2026,Cozy Winter Jacket,Clothing,101,"$3,030",214,$30,Yes,76,Cloudy,$29.82,983,No,4,Black Friday,0,171,Winter
+2/10/2026,Cozy Winter Jacket,Clothing,108,"$3,240",24,$30,Yes,73,Snowy,$28.15,1149,No,7,Holiday Sale,2,134,Winter
+2/11/2026,Cozy Winter Jacket,Clothing,157,"$4,710",235,$30,Yes,80,Snowy,$29.32,1030,Yes,5,Black Friday,3,128,Winter
+2/12/2026,Cozy Winter Jacket,Clothing,101,"$3,030",116,$30,Yes,73,Snowy,$28.25,1008,Yes,7,Black Friday,0,170,Winter
+2/13/2026,Cozy Winter Jacket,Clothing,117,"$3,510",235,$30,Yes,75,Sunny,$30.53,921,Yes,5,New Year Event,2,144,Winter
+2/14/2026,Cozy Winter Jacket,Clothing,160,"$4,800",254,$30,Yes,78,Snowy,$35.00,872,Yes,1,Holiday Sale,3,144,Winter
+2/15/2026,Cozy Winter Jacket,Clothing,129,"$3,870",93,$30,Yes,71,Cloudy,$30.26,854,Yes,3,New Year Event,1,159,Winter
+2/16/2026,Cozy Winter Jacket,Clothing,148,"$4,440",136,$30,Yes,71,Sunny,$27.17,1016,Yes,5,Holiday Sale,3,162,Winter
+2/17/2026,Cozy Winter Jacket,Clothing,137,"$4,110",64,$30,Yes,74,Cloudy,$25.21,1169,Yes,2,None,1,164,Winter
+2/18/2026,Cozy Winter Jacket,Clothing,142,"$4,260",279,$30,No,74,Cloudy,$33.86,1204,Yes,2,New Year Event,1,154,Winter
+2/19/2026,Cozy Winter Jacket,Clothing,104,"$3,120",194,$30,Yes,80,Snowy,$33.91,953,Yes,6,New Year Event,2,145,Winter
+2/20/2026,Cozy Winter Jacket,Clothing,157,"$4,710",282,$30,No,77,Rainy,$30.97,918,Yes,5,New Year Event,1,142,Winter
+2/21/2026,Cozy Winter Jacket,Clothing,158,"$4,740",34,$30,No,77,Sunny,$34.70,825,Yes,2,Holiday Sale,4,172,Winter
+2/22/2026,Cozy Winter Jacket,Clothing,152,"$4,560",117,$30,Yes,70,Cloudy,$30.29,1063,No,5,Black Friday,4,149,Winter
+2/23/2026,Cozy Winter Jacket,Clothing,147,"$4,410",170,$30,Yes,71,Cloudy,$32.93,918,No,5,Holiday Sale,2,127,Winter
+2/24/2026,Cozy Winter Jacket,Clothing,123,"$3,690",233,$30,Yes,70,Rainy,$30.37,1199,No,2,None,4,129,Winter
+2/25/2026,Cozy Winter Jacket,Clothing,144,"$4,320",149,$30,Yes,70,Rainy,$32.93,971,Yes,4,Holiday Sale,0,126,Winter
+2/26/2026,Cozy Winter Jacket,Clothing,120,"$3,600",147,$30,Yes,80,Sunny,$28.35,862,No,5,Black Friday,2,149,Winter
+2/27/2026,Cozy Winter Jacket,Clothing,155,"$4,650",45,$30,Yes,73,Snowy,$26.67,1079,Yes,4,Holiday Sale,5,167,Winter
+2/28/2026,Cozy Winter Jacket,Clothing,102,"$3,060",183,$30,Yes,75,Snowy,$30.91,1090,No,3,New Year Event,0,165,Winter
+3/1/2026,Cozy Winter Jacket,Clothing,101,"$3,030",176,$30,No,73,Rainy,$31.75,1289,No,3,Holiday Sale,4,131,Winter
+3/2/2026,Cozy Winter Jacket,Clothing,148,"$4,440",155,$30,No,71,Snowy,$26.16,1272,Yes,1,Black Friday,5,142,Winter
+3/3/2026,Cozy Winter Jacket,Clothing,144,"$4,320",169,$30,Yes,79,Snowy,$31.06,1011,No,5,Black Friday,2,134,Winter
+3/4/2026,Cozy Winter Jacket,Clothing,117,"$3,510",36,$30,Yes,70,Sunny,$28.29,1032,Yes,1,Holiday Sale,0,127,Winter
+3/5/2026,Cozy Winter Jacket,Clothing,151,"$4,530",94,$30,No,70,Sunny,$34.04,1298,No,7,Black Friday,0,159,Winter
+3/6/2026,Cozy Winter Jacket,Clothing,160,"$4,800",58,$30,No,75,Sunny,$29.53,1050,No,5,New Year Event,3,137,Winter
+3/7/2026,Cozy Winter Jacket,Clothing,123,"$3,690",79,$30,Yes,70,Cloudy,$25.92,1206,No,1,None,5,136,Winter
+3/8/2026,Cozy Winter Jacket,Clothing,140,"$4,200",8,$30,Yes,74,Cloudy,$31.26,1285,Yes,1,None,0,143,Winter
+3/9/2026,Cozy Winter Jacket,Clothing,124,"$3,720",162,$30,Yes,77,Snowy,$31.78,916,No,3,None,3,160,Winter
+3/10/2026,Cozy Winter Jacket,Clothing,124,"$3,720",152,$30,No,75,Cloudy,$31.48,973,Yes,1,New Year Event,2,136,Winter
+3/11/2026,Cozy Winter Jacket,Clothing,113,"$3,390",268,$30,Yes,72,Snowy,$32.67,1184,No,6,New Year Event,2,165,Winter
+3/12/2026,Cozy Winter Jacket,Clothing,121,"$3,630",138,$30,Yes,78,Sunny,$30.82,1078,No,4,None,2,125,Winter
+3/13/2026,Cozy Winter Jacket,Clothing,134,"$4,020",12,$30,Yes,72,Snowy,$28.56,964,Yes,1,New Year Event,3,153,Winter
+3/14/2026,Cozy Winter Jacket,Clothing,126,"$3,780",246,$30,No,79,Snowy,$29.24,985,No,5,Black Friday,5,132,Winter
+3/15/2026,Cozy Winter Jacket,Clothing,127,"$3,810",245,$30,Yes,71,Sunny,$33.61,1258,Yes,3,New Year Event,3,171,Winter
+3/16/2026,Cozy Winter Jacket,Clothing,152,"$4,560",234,$30,No,74,Snowy,$30.64,1180,No,5,Black Friday,4,160,Winter
+3/17/2026,Cozy Winter Jacket,Clothing,159,"$4,770",194,$30,Yes,76,Sunny,$30.78,887,Yes,5,Holiday Sale,0,167,Winter
+3/18/2026,Cozy Winter Jacket,Clothing,139,"$4,170",299,$30,No,77,Cloudy,$29.10,925,Yes,5,None,2,157,Winter
+3/19/2026,Cozy Winter Jacket,Clothing,118,"$3,540",51,$30,Yes,73,Snowy,$26.83,1254,Yes,3,Holiday Sale,5,174,Winter
+3/20/2026,Cozy Winter Jacket,Clothing,141,"$4,230",287,$30,No,71,Rainy,$27.10,1121,Yes,7,None,2,158,Winter
+3/21/2026,Cozy Winter Jacket,Clothing,100,"$3,000",222,$30,Yes,77,Sunny,$27.92,885,No,4,New Year Event,1,143,Winter
+3/22/2026,Cozy Winter Jacket,Clothing,159,"$4,770",171,$30,Yes,72,Sunny,$28.02,916,Yes,7,New Year Event,1,142,Winter
+3/23/2026,Cozy Winter Jacket,Clothing,156,"$4,680",186,$30,Yes,77,Sunny,$29.98,982,No,2,None,3,138,Winter
+3/24/2026,Cozy Winter Jacket,Clothing,142,"$4,260",7,$30,Yes,70,Sunny,$34.60,866,Yes,4,New Year Event,2,131,Winter
+3/25/2026,Cozy Winter Jacket,Clothing,135,"$4,050",206,$30,No,76,Rainy,$34.93,1268,Yes,7,New Year Event,4,126,Winter
+3/26/2026,Cozy Winter Jacket,Clothing,127,"$3,810",291,$30,Yes,79,Sunny,$31.09,1235,Yes,1,New Year Event,4,167,Winter
+3/27/2026,Cozy Winter Jacket,Clothing,156,"$4,680",118,$30,Yes,72,Cloudy,$30.55,848,No,2,New Year Event,5,157,Winter
+3/28/2026,Cozy Winter Jacket,Clothing,130,"$3,900",79,$30,No,80,Cloudy,$27.57,937,No,5,Holiday Sale,3,160,Winter
+3/29/2026,Cozy Winter Jacket,Clothing,149,"$4,470",163,$30,No,71,Cloudy,$32.53,1209,No,3,Black Friday,1,153,Winter
+3/30/2026,Cozy Winter Jacket,Clothing,158,"$4,740",179,$30,No,80,Sunny,$32.35,869,No,3,Holiday Sale,2,175,Winter
+3/31/2026,Cozy Winter Jacket,Clothing,154,"$4,620",123,$30,No,80,Sunny,$26.63,1161,Yes,7,Holiday Sale,5,169,Winter
+4/1/2026,Cozy Winter Jacket,Clothing,145,"$4,350",247,$30,Yes,74,Snowy,$31.75,1078,Yes,7,Holiday Sale,3,142,Winter
+4/2/2026,Cozy Winter Jacket,Clothing,132,"$3,960",60,$30,No,75,Rainy,$27.84,899,No,1,New Year Event,4,174,Winter
+4/3/2026,Cozy Winter Jacket,Clothing,135,"$4,050",76,$30,No,75,Snowy,$28.13,870,No,2,Holiday Sale,0,150,Winter
+4/4/2026,Cozy Winter Jacket,Clothing,114,"$3,420",114,$30,Yes,79,Snowy,$30.80,1197,Yes,4,Black Friday,4,126,Winter
+4/5/2026,Cozy Winter Jacket,Clothing,157,"$4,710",36,$30,Yes,71,Snowy,$25.19,998,No,6,Black Friday,0,140,Winter
+4/6/2026,Cozy Winter Jacket,Clothing,114,"$3,420",56,$30,Yes,70,Rainy,$26.13,1079,Yes,1,Holiday Sale,5,171,Winter
+4/7/2026,Cozy Winter Jacket,Clothing,150,"$4,500",155,$30,Yes,77,Snowy,$34.53,938,No,5,New Year Event,2,143,Winter
+4/8/2026,Cozy Winter Jacket,Clothing,155,"$4,650",209,$30,No,80,Sunny,$34.03,1175,Yes,3,Black Friday,5,127,Winter
+4/9/2026,Cozy Winter Jacket,Clothing,152,"$4,560",40,$30,Yes,77,Cloudy,$26.45,1052,No,6,Black Friday,3,161,Winter
+4/10/2026,Cozy Winter Jacket,Clothing,140,"$4,200",222,$30,No,80,Snowy,$27.55,1162,No,1,New Year Event,2,175,Winter
+4/11/2026,Cozy Winter Jacket,Clothing,122,"$3,660",62,$30,Yes,80,Snowy,$30.25,1054,Yes,5,New Year Event,3,165,Winter
+4/12/2026,Cozy Winter Jacket,Clothing,103,"$3,090",55,$30,No,80,Cloudy,$33.86,1070,No,2,Holiday Sale,0,156,Winter
+4/13/2026,Cozy Winter Jacket,Clothing,122,"$3,660",119,$30,Yes,80,Snowy,$33.22,1172,No,4,Black Friday,5,161,Winter
+4/14/2026,Cozy Winter Jacket,Clothing,116,"$3,480",300,$30,Yes,70,Sunny,$33.46,952,Yes,6,Holiday Sale,4,127,Winter
+4/15/2026,Cozy Winter Jacket,Clothing,140,"$4,200",79,$30,No,79,Rainy,$31.46,1021,No,2,New Year Event,2,139,Winter
+4/16/2026,Cozy Winter Jacket,Clothing,126,"$3,780",165,$30,Yes,70,Rainy,$28.67,1121,Yes,5,None,1,127,Winter
+4/17/2026,Cozy Winter Jacket,Clothing,156,"$4,680",27,$30,Yes,77,Cloudy,$33.69,894,No,1,New Year Event,0,169,Winter
+4/18/2026,Cozy Winter Jacket,Clothing,118,"$3,540",59,$30,Yes,73,Cloudy,$28.00,945,No,6,Holiday Sale,2,156,Winter
+4/19/2026,Cozy Winter Jacket,Clothing,107,"$3,210",80,$30,Yes,71,Rainy,$32.93,1250,No,7,Holiday Sale,0,130,Winter
+4/20/2026,Cozy Winter Jacket,Clothing,129,"$3,870",128,$30,No,76,Sunny,$26.14,925,Yes,1,None,5,145,Winter
+4/21/2026,Cozy Winter Jacket,Clothing,143,"$4,290",253,$30,No,80,Rainy,$31.15,853,No,5,None,1,155,Winter
+4/22/2026,Cozy Winter Jacket,Clothing,132,"$3,960",42,$30,Yes,80,Cloudy,$30.68,824,No,1,New Year Event,3,134,Winter
+4/23/2026,Cozy Winter Jacket,Clothing,120,"$3,600",242,$30,Yes,79,Rainy,$31.97,913,Yes,4,Holiday Sale,0,140,Winter
+4/24/2026,Cozy Winter Jacket,Clothing,101,"$3,030",278,$30,Yes,72,Cloudy,$27.42,852,No,5,New Year Event,4,140,Winter
+4/25/2026,Cozy Winter Jacket,Clothing,141,"$4,230",185,$30,No,74,Sunny,$34.24,959,No,1,None,1,164,Winter
+4/26/2026,Cozy Winter Jacket,Clothing,118,"$3,540",131,$30,Yes,78,Cloudy,$33.39,837,Yes,7,Black Friday,3,143,Winter
+4/27/2026,Cozy Winter Jacket,Clothing,111,"$3,330",283,$30,No,70,Snowy,$27.61,1219,No,1,None,5,149,Winter
+4/28/2026,Cozy Winter Jacket,Clothing,142,"$4,260",227,$30,No,78,Sunny,$27.31,975,Yes,2,None,5,163,Winter
+4/29/2026,Cozy Winter Jacket,Clothing,105,"$3,150",28,$30,Yes,77,Sunny,$33.53,1169,No,7,New Year Event,5,140,Winter
+4/30/2026,Cozy Winter Jacket,Clothing,110,"$3,300",261,$30,Yes,74,Snowy,$27.22,1109,No,2,Black Friday,2,165,Winter
+5/1/2026,Cozy Winter Jacket,Clothing,107,"$3,210",183,$30,No,80,Sunny,$33.55,1129,Yes,5,Holiday Sale,1,163,Winter
+5/2/2026,Cozy Winter Jacket,Clothing,156,"$4,680",98,$30,Yes,80,Rainy,$31.71,1101,No,5,New Year Event,3,147,Winter
+5/3/2026,Cozy Winter Jacket,Clothing,133,"$3,990",132,$30,Yes,77,Rainy,$30.15,1201,Yes,1,None,4,143,Winter
+5/4/2026,Cozy Winter Jacket,Clothing,107,"$3,210",43,$30,Yes,72,Snowy,$31.94,1198,Yes,6,Black Friday,3,131,Winter
+5/5/2026,Cozy Winter Jacket,Clothing,144,"$4,320",181,$30,No,73,Cloudy,$29.05,1198,No,6,Holiday Sale,5,163,Winter
+5/6/2026,Cozy Winter Jacket,Clothing,150,"$4,500",281,$30,Yes,77,Sunny,$33.85,887,Yes,5,Black Friday,1,143,Winter
+5/7/2026,Cozy Winter Jacket,Clothing,102,"$3,060",214,$30,No,79,Cloudy,$33.13,909,Yes,3,Black Friday,3,136,Winter
+5/8/2026,Cozy Winter Jacket,Clothing,124,"$3,720",215,$30,Yes,75,Rainy,$34.11,857,Yes,6,Holiday Sale,3,149,Winter
+5/9/2026,Cozy Winter Jacket,Clothing,122,"$3,660",62,$30,Yes,70,Snowy,$27.14,820,No,2,None,1,158,Winter
+5/10/2026,Cozy Winter Jacket,Clothing,109,"$3,270",176,$30,Yes,70,Rainy,$32.61,1288,No,1,New Year Event,4,153,Winter
+5/11/2026,Cozy Winter Jacket,Clothing,124,"$3,720",171,$30,No,80,Snowy,$31.65,1075,No,6,Black Friday,3,170,Winter
+5/12/2026,Cozy Winter Jacket,Clothing,138,"$4,140",185,$30,No,75,Sunny,$34.24,1163,No,1,New Year Event,4,163,Winter
+5/13/2026,Cozy Winter Jacket,Clothing,126,"$3,780",248,$30,No,79,Cloudy,$29.86,1073,No,2,Holiday Sale,2,171,Winter
+5/14/2026,Cozy Winter Jacket,Clothing,144,"$4,320",155,$30,Yes,70,Cloudy,$33.56,1153,Yes,6,Holiday Sale,3,152,Winter
+5/15/2026,Cozy Winter Jacket,Clothing,124,"$3,720",89,$30,No,77,Cloudy,$34.24,1147,No,4,Holiday Sale,1,158,Winter
+5/16/2026,Cozy Winter Jacket,Clothing,133,"$3,990",119,$30,Yes,76,Cloudy,$31.10,800,No,7,Black Friday,1,134,Winter
+5/17/2026,Cozy Winter Jacket,Clothing,104,"$3,120",119,$30,No,80,Sunny,$27.82,1039,Yes,1,Holiday Sale,1,128,Winter
+5/18/2026,Cozy Winter Jacket,Clothing,131,"$3,930",274,$30,No,77,Cloudy,$31.06,1196,Yes,3,New Year Event,1,158,Winter
+5/19/2026,Cozy Winter Jacket,Clothing,136,"$4,080",49,$30,Yes,76,Snowy,$28.62,908,No,2,Black Friday,2,167,Winter
+5/20/2026,Cozy Winter Jacket,Clothing,101,"$3,030",9,$30,Yes,70,Sunny,$34.79,814,Yes,7,Black Friday,4,145,Winter
+5/21/2026,Cozy Winter Jacket,Clothing,151,"$4,530",241,$30,No,73,Cloudy,$28.62,1158,No,7,None,2,129,Winter
+5/22/2026,Cozy Winter Jacket,Clothing,112,"$3,360",41,$30,Yes,76,Rainy,$31.39,916,Yes,2,Holiday Sale,5,145,Winter
+5/23/2026,Cozy Winter Jacket,Clothing,106,"$3,180",106,$30,No,79,Cloudy,$25.68,944,No,3,New Year Event,3,143,Winter
+5/24/2026,Cozy Winter Jacket,Clothing,144,"$4,320",220,$30,No,75,Rainy,$29.99,1156,No,5,New Year Event,4,164,Winter
+5/25/2026,Cozy Winter Jacket,Clothing,153,"$4,590",39,$30,No,77,Rainy,$26.25,1174,No,2,Holiday Sale,3,157,Winter
+5/26/2026,Cozy Winter Jacket,Clothing,128,"$3,840",36,$30,Yes,79,Rainy,$34.38,1131,Yes,3,Black Friday,0,136,Winter
+5/27/2026,Cozy Winter Jacket,Clothing,130,"$3,900",274,$30,No,77,Rainy,$25.97,1175,No,6,None,3,172,Winter
+5/28/2026,Cozy Winter Jacket,Clothing,114,"$3,420",131,$30,Yes,71,Rainy,$26.03,1233,No,7,Black Friday,4,133,Winter
+5/29/2026,Cozy Winter Jacket,Clothing,147,"$4,410",10,$30,Yes,70,Sunny,$30.91,860,Yes,6,Holiday Sale,1,130,Winter
+5/30/2026,Cozy Winter Jacket,Clothing,115,"$3,450",139,$30,Yes,70,Rainy,$26.30,1197,Yes,4,Black Friday,4,142,Winter
+5/31/2026,Cozy Winter Jacket,Clothing,147,"$4,410",112,$30,Yes,77,Cloudy,$34.40,1137,No,1,Black Friday,4,136,Winter
+6/1/2026,Cozy Winter Jacket,Clothing,123,"$3,690",111,$30,Yes,76,Sunny,$31.63,1094,No,5,Holiday Sale,4,144,Winter
+6/2/2026,Cozy Winter Jacket,Clothing,101,"$3,030",296,$30,Yes,79,Cloudy,$32.38,1289,Yes,7,Black Friday,5,165,Winter
+6/3/2026,Cozy Winter Jacket,Clothing,133,"$3,990",220,$30,No,73,Snowy,$25.13,1277,No,2,New Year Event,3,163,Winter
+6/4/2026,Cozy Winter Jacket,Clothing,111,"$3,330",200,$30,No,76,Sunny,$31.74,1190,No,6,Holiday Sale,5,161,Winter
+6/5/2026,Cozy Winter Jacket,Clothing,156,"$4,680",100,$30,Yes,76,Rainy,$30.84,1249,Yes,7,Holiday Sale,1,150,Winter
+6/6/2026,Cozy Winter Jacket,Clothing,127,"$3,810",283,$30,No,71,Cloudy,$26.49,1175,Yes,4,New Year Event,1,162,Winter
+6/7/2026,Cozy Winter Jacket,Clothing,119,"$3,570",199,$30,No,70,Cloudy,$33.39,1158,No,7,None,4,146,Winter
+6/8/2026,Cozy Winter Jacket,Clothing,103,"$3,090",52,$30,No,71,Snowy,$29.87,1223,Yes,6,Holiday Sale,1,134,Winter
+6/9/2026,Cozy Winter Jacket,Clothing,121,"$3,630",178,$30,No,74,Snowy,$30.24,995,No,4,Holiday Sale,2,165,Winter
+6/10/2026,Cozy Winter Jacket,Clothing,103,"$3,090",154,$30,No,78,Rainy,$29.63,1289,No,7,Black Friday,3,162,Winter
+6/11/2026,Cozy Winter Jacket,Clothing,102,"$3,060",108,$30,No,78,Rainy,$32.61,822,No,6,Black Friday,2,169,Winter
+6/12/2026,Cozy Winter Jacket,Clothing,149,"$4,470",170,$30,No,73,Rainy,$28.30,1033,Yes,6,Black Friday,0,135,Winter
+6/13/2026,Cozy Winter Jacket,Clothing,122,"$3,660",150,$30,Yes,72,Sunny,$26.07,1178,Yes,3,Black Friday,5,167,Winter
+6/14/2026,Cozy Winter Jacket,Clothing,144,"$4,320",0,$30,No,71,Sunny,$32.63,1157,Yes,7,Black Friday,2,140,Winter
+6/15/2026,Cozy Winter Jacket,Clothing,133,"$3,990",220,$30,No,73,Sunny,$33.20,1199,No,1,None,3,125,Winter
+6/16/2026,Cozy Winter Jacket,Clothing,141,"$4,230",141,$30,No,73,Cloudy,$33.44,969,No,2,None,1,144,Winter
+6/17/2026,Cozy Winter Jacket,Clothing,106,"$3,180",72,$30,No,78,Snowy,$32.48,852,No,1,Holiday Sale,4,159,Winter
+6/18/2026,Cozy Winter Jacket,Clothing,148,"$4,440",135,$30,No,75,Rainy,$34.19,989,Yes,2,Holiday Sale,0,167,Winter
+6/19/2026,Cozy Winter Jacket,Clothing,128,"$3,840",53,$30,No,75,Cloudy,$25.72,1088,Yes,3,None,0,129,Winter
+6/20/2026,Cozy Winter Jacket,Clothing,129,"$3,870",31,$30,No,80,Snowy,$31.60,1017,No,5,New Year Event,1,161,Winter
+6/21/2026,Cozy Winter Jacket,Clothing,150,"$4,500",124,$30,Yes,73,Sunny,$34.33,1161,No,7,Holiday Sale,2,144,Winter
+6/22/2026,Cozy Winter Jacket,Clothing,110,"$3,300",293,$30,No,74,Cloudy,$28.38,804,No,2,New Year Event,5,144,Winter
+6/23/2026,Cozy Winter Jacket,Clothing,109,"$3,270",77,$30,Yes,70,Sunny,$32.12,919,Yes,2,Black Friday,3,129,Winter
+6/24/2026,Cozy Winter Jacket,Clothing,121,"$3,630",170,$30,No,76,Rainy,$26.02,1140,No,4,Holiday Sale,5,137,Winter
+6/25/2026,Cozy Winter Jacket,Clothing,131,"$3,930",283,$30,Yes,72,Rainy,$27.65,828,No,6,New Year Event,3,165,Winter
+6/26/2026,Cozy Winter Jacket,Clothing,111,"$3,330",69,$30,Yes,75,Rainy,$28.17,1092,No,5,None,2,161,Winter
+6/27/2026,Cozy Winter Jacket,Clothing,124,"$3,720",17,$30,No,74,Rainy,$29.08,1177,Yes,7,Black Friday,0,126,Winter
+6/28/2026,Cozy Winter Jacket,Clothing,122,"$3,660",175,$30,Yes,72,Sunny,$30.18,1160,No,7,Holiday Sale,5,129,Winter
+6/29/2026,Cozy Winter Jacket,Clothing,133,"$3,990",214,$30,Yes,70,Rainy,$32.71,923,No,1,Holiday Sale,0,156,Winter
+6/30/2026,Cozy Winter Jacket,Clothing,143,"$4,290",263,$30,No,74,Sunny,$29.25,1009,Yes,6,New Year Event,2,146,Winter
+7/1/2026,Cozy Winter Jacket,Clothing,101,"$3,030",177,$30,No,70,Rainy,$31.32,961,Yes,1,Holiday Sale,4,159,Winter
+7/2/2026,Cozy Winter Jacket,Clothing,103,"$3,090",298,$30,No,72,Cloudy,$31.14,1134,Yes,6,None,2,135,Winter
+7/3/2026,Cozy Winter Jacket,Clothing,113,"$3,390",291,$30,Yes,71,Snowy,$27.81,919,Yes,7,Holiday Sale,2,136,Winter
+7/4/2026,Cozy Winter Jacket,Clothing,158,"$4,740",224,$30,No,76,Cloudy,$27.21,1166,No,7,None,1,127,Winter
+7/5/2026,Cozy Winter Jacket,Clothing,112,"$3,360",158,$30,No,78,Cloudy,$25.02,810,No,3,Black Friday,5,148,Winter
+7/6/2026,Cozy Winter Jacket,Clothing,101,"$3,030",291,$30,Yes,79,Cloudy,$33.54,856,Yes,3,None,4,158,Winter
+7/7/2026,Cozy Winter Jacket,Clothing,107,"$3,210",292,$30,No,77,Rainy,$27.87,1048,No,6,None,5,153,Winter
+7/8/2026,Cozy Winter Jacket,Clothing,111,"$3,330",275,$30,No,71,Sunny,$31.47,989,Yes,6,None,0,143,Winter
+7/9/2026,Cozy Winter Jacket,Clothing,102,"$3,060",229,$30,Yes,73,Cloudy,$33.47,1161,Yes,4,None,1,155,Winter
+7/10/2026,Cozy Winter Jacket,Clothing,125,"$3,750",82,$30,No,74,Snowy,$25.15,940,No,6,New Year Event,5,175,Winter
+7/11/2026,Cozy Winter Jacket,Clothing,120,"$3,600",47,$30,No,80,Sunny,$30.61,841,No,3,None,0,154,Winter
+7/12/2026,Cozy Winter Jacket,Clothing,115,"$3,450",157,$30,Yes,76,Sunny,$25.98,922,Yes,3,Holiday Sale,2,162,Winter
+7/13/2026,Cozy Winter Jacket,Clothing,142,"$4,260",1,$30,Yes,79,Sunny,$31.04,1113,Yes,6,Black Friday,4,169,Winter
+7/14/2026,Cozy Winter Jacket,Clothing,139,"$4,170",35,$30,No,80,Cloudy,$31.65,916,Yes,1,Black Friday,5,175,Winter
+7/15/2026,Cozy Winter Jacket,Clothing,118,"$3,540",288,$30,No,71,Snowy,$30.31,952,Yes,1,Holiday Sale,1,150,Winter
+7/16/2026,Cozy Winter Jacket,Clothing,156,"$4,680",94,$30,No,72,Rainy,$29.61,1010,No,1,Holiday Sale,5,156,Winter
+7/17/2026,Cozy Winter Jacket,Clothing,152,"$4,560",219,$30,Yes,75,Sunny,$32.97,1033,Yes,7,Black Friday,3,131,Winter
+7/18/2026,Cozy Winter Jacket,Clothing,112,"$3,360",31,$30,Yes,77,Rainy,$32.31,920,Yes,3,None,1,130,Winter
+7/19/2026,Cozy Winter Jacket,Clothing,151,"$4,530",161,$30,Yes,78,Cloudy,$34.43,821,No,3,Holiday Sale,4,174,Winter
+7/20/2026,Cozy Winter Jacket,Clothing,100,"$3,000",230,$30,No,71,Sunny,$31.29,852,Yes,3,None,5,154,Winter
+7/21/2026,Cozy Winter Jacket,Clothing,160,"$4,800",44,$30,No,73,Cloudy,$32.70,1247,No,7,Holiday Sale,1,127,Winter
+7/22/2026,Cozy Winter Jacket,Clothing,125,"$3,750",110,$30,Yes,71,Cloudy,$27.71,1285,No,5,Black Friday,1,137,Winter
+7/23/2026,Cozy Winter Jacket,Clothing,134,"$4,020",250,$30,No,79,Cloudy,$33.91,1023,Yes,1,Holiday Sale,4,137,Winter
+7/24/2026,Cozy Winter Jacket,Clothing,148,"$4,440",287,$30,No,79,Sunny,$31.93,1092,Yes,2,New Year Event,0,165,Winter
+7/25/2026,Cozy Winter Jacket,Clothing,112,"$3,360",235,$30,No,71,Cloudy,$32.23,1228,No,6,Holiday Sale,5,173,Winter
+7/26/2026,Cozy Winter Jacket,Clothing,114,"$3,420",136,$30,Yes,73,Rainy,$29.93,1221,No,7,Holiday Sale,4,129,Winter
+7/27/2026,Cozy Winter Jacket,Clothing,151,"$4,530",67,$30,Yes,70,Cloudy,$26.89,870,Yes,1,Black Friday,1,142,Winter
+7/28/2026,Cozy Winter Jacket,Clothing,119,"$3,570",177,$30,No,79,Rainy,$31.64,1267,Yes,5,Holiday Sale,4,161,Winter
+7/29/2026,Cozy Winter Jacket,Clothing,107,"$3,210",138,$30,Yes,77,Snowy,$30.50,892,Yes,4,Holiday Sale,0,150,Winter
+7/30/2026,Cozy Winter Jacket,Clothing,145,"$4,350",240,$30,No,74,Sunny,$27.19,1184,Yes,6,None,4,156,Winter
+7/31/2026,Cozy Winter Jacket,Clothing,145,"$4,350",68,$30,Yes,73,Cloudy,$32.76,804,No,7,New Year Event,4,158,Winter
+8/1/2026,Cozy Winter Jacket,Clothing,148,"$4,440",183,$30,Yes,74,Snowy,$27.59,1036,Yes,1,New Year Event,3,166,Winter
+8/2/2026,Cozy Winter Jacket,Clothing,157,"$4,710",295,$30,Yes,79,Snowy,$31.39,816,No,6,None,0,163,Winter
+8/3/2026,Cozy Winter Jacket,Clothing,120,"$3,600",100,$30,No,73,Sunny,$33.85,891,No,2,New Year Event,0,136,Winter
+8/4/2026,Cozy Winter Jacket,Clothing,137,"$4,110",205,$30,Yes,73,Rainy,$29.21,832,No,6,New Year Event,3,165,Winter
+8/5/2026,Cozy Winter Jacket,Clothing,144,"$4,320",258,$30,Yes,80,Cloudy,$29.43,1166,No,6,New Year Event,0,170,Winter
+8/6/2026,Cozy Winter Jacket,Clothing,113,"$3,390",65,$30,Yes,77,Sunny,$32.81,967,Yes,2,Holiday Sale,3,161,Winter
+8/7/2026,Cozy Winter Jacket,Clothing,156,"$4,680",156,$30,No,75,Cloudy,$29.84,898,Yes,2,New Year Event,4,139,Winter
+8/8/2026,Cozy Winter Jacket,Clothing,107,"$3,210",294,$30,Yes,77,Cloudy,$25.62,1273,No,1,New Year Event,1,138,Winter
+8/9/2026,Cozy Winter Jacket,Clothing,100,"$3,000",38,$30,Yes,70,Snowy,$32.56,1227,No,1,Holiday Sale,0,172,Winter
+8/10/2026,Cozy Winter Jacket,Clothing,130,"$3,900",86,$30,No,75,Cloudy,$34.55,880,No,4,None,3,156,Winter
+8/11/2026,Cozy Winter Jacket,Clothing,131,"$3,930",44,$30,Yes,75,Cloudy,$27.91,986,Yes,3,Black Friday,1,165,Winter
+8/12/2026,Cozy Winter Jacket,Clothing,144,"$4,320",178,$30,Yes,74,Snowy,$30.74,1298,No,5,Holiday Sale,5,162,Winter
+8/13/2026,Cozy Winter Jacket,Clothing,149,"$4,470",206,$30,Yes,77,Snowy,$30.06,943,Yes,5,None,3,147,Winter
+8/14/2026,Cozy Winter Jacket,Clothing,110,"$3,300",42,$30,No,79,Cloudy,$26.30,817,Yes,2,Black Friday,5,156,Winter
+8/15/2026,Cozy Winter Jacket,Clothing,152,"$4,560",10,$30,Yes,78,Cloudy,$27.90,1026,No,5,None,3,131,Winter
+8/16/2026,Cozy Winter Jacket,Clothing,105,"$3,150",143,$30,Yes,71,Sunny,$25.66,848,Yes,2,Black Friday,5,152,Winter
+8/17/2026,Cozy Winter Jacket,Clothing,126,"$3,780",32,$30,No,74,Snowy,$29.56,887,Yes,6,Black Friday,1,163,Winter
+8/18/2026,Cozy Winter Jacket,Clothing,133,"$3,990",33,$30,Yes,71,Sunny,$27.60,966,Yes,1,Black Friday,5,137,Winter
+8/19/2026,Cozy Winter Jacket,Clothing,108,"$3,240",260,$30,No,76,Snowy,$32.09,1172,No,6,None,0,141,Winter
+8/20/2026,Cozy Winter Jacket,Clothing,158,"$4,740",16,$30,Yes,71,Snowy,$29.93,1141,No,3,None,5,144,Winter
+8/21/2026,Cozy Winter Jacket,Clothing,157,"$4,710",69,$30,Yes,77,Rainy,$26.51,1212,Yes,7,New Year Event,1,169,Winter
+8/22/2026,Cozy Winter Jacket,Clothing,145,"$4,350",263,$30,No,75,Sunny,$28.11,1109,Yes,1,Black Friday,5,133,Winter
+8/23/2026,Cozy Winter Jacket,Clothing,109,"$3,270",288,$30,No,73,Rainy,$29.88,854,No,3,New Year Event,3,148,Winter
+8/24/2026,Cozy Winter Jacket,Clothing,100,"$3,000",226,$30,Yes,71,Snowy,$31.66,946,Yes,2,Black Friday,2,171,Winter
+8/25/2026,Cozy Winter Jacket,Clothing,129,"$3,870",198,$30,No,72,Sunny,$25.22,984,Yes,6,New Year Event,2,172,Winter
+8/26/2026,Cozy Winter Jacket,Clothing,102,"$3,060",209,$30,Yes,78,Snowy,$25.75,993,Yes,1,Black Friday,2,159,Winter
+8/27/2026,Cozy Winter Jacket,Clothing,110,"$3,300",164,$30,Yes,73,Rainy,$29.24,1285,Yes,7,None,3,150,Winter
+8/28/2026,Cozy Winter Jacket,Clothing,148,"$4,440",127,$30,No,75,Cloudy,$33.81,986,No,4,Black Friday,5,150,Winter
+8/29/2026,Cozy Winter Jacket,Clothing,138,"$4,140",266,$30,Yes,78,Snowy,$30.43,873,Yes,3,Holiday Sale,5,129,Winter
+8/30/2026,Cozy Winter Jacket,Clothing,101,"$3,030",272,$30,No,77,Snowy,$34.13,1005,Yes,1,Black Friday,5,142,Winter
+8/31/2026,Cozy Winter Jacket,Clothing,138,"$4,140",138,$30,Yes,80,Snowy,$34.06,1256,No,2,New Year Event,4,167,Winter
+9/1/2026,Cozy Winter Jacket,Clothing,141,"$4,230",82,$30,Yes,78,Sunny,$25.08,1250,No,3,New Year Event,3,173,Winter
+9/2/2026,Cozy Winter Jacket,Clothing,159,"$4,770",290,$30,Yes,71,Snowy,$27.13,1084,No,1,Holiday Sale,3,141,Winter
+9/3/2026,Cozy Winter Jacket,Clothing,121,"$3,630",155,$30,Yes,76,Sunny,$28.23,1010,Yes,2,New Year Event,1,161,Winter
+9/4/2026,Cozy Winter Jacket,Clothing,130,"$3,900",270,$30,Yes,76,Cloudy,$25.68,848,Yes,6,New Year Event,4,136,Winter
+9/5/2026,Cozy Winter Jacket,Clothing,132,"$3,960",71,$30,No,77,Rainy,$27.27,1179,Yes,4,None,0,148,Winter
+9/6/2026,Cozy Winter Jacket,Clothing,159,"$4,770",276,$30,No,72,Cloudy,$32.26,1112,Yes,1,New Year Event,3,134,Winter
+9/7/2026,Cozy Winter Jacket,Clothing,100,"$3,000",267,$30,Yes,76,Cloudy,$25.13,1102,No,4,Black Friday,1,148,Winter
+9/8/2026,Cozy Winter Jacket,Clothing,143,"$4,290",46,$30,No,79,Sunny,$26.65,986,Yes,7,Black Friday,3,173,Winter
+9/9/2026,Cozy Winter Jacket,Clothing,123,"$3,690",166,$30,Yes,72,Rainy,$32.67,929,No,2,Holiday Sale,3,135,Winter
+9/10/2026,Cozy Winter Jacket,Clothing,106,"$3,180",70,$30,Yes,71,Sunny,$26.97,1011,No,1,Black Friday,2,160,Winter
+9/11/2026,Cozy Winter Jacket,Clothing,109,"$3,270",123,$30,No,78,Snowy,$25.16,1090,Yes,3,None,4,151,Winter
+9/12/2026,Cozy Winter Jacket,Clothing,106,"$3,180",15,$30,No,71,Snowy,$26.63,1204,Yes,7,Black Friday,3,140,Winter
+9/13/2026,Cozy Winter Jacket,Clothing,114,"$3,420",122,$30,No,72,Rainy,$28.80,1119,Yes,1,New Year Event,3,163,Winter
+9/14/2026,Cozy Winter Jacket,Clothing,155,"$4,650",90,$30,Yes,74,Cloudy,$31.73,979,Yes,2,None,3,166,Winter
+9/15/2026,Cozy Winter Jacket,Clothing,114,"$3,420",94,$30,Yes,74,Rainy,$27.20,943,Yes,5,Black Friday,5,153,Winter
+9/16/2026,Cozy Winter Jacket,Clothing,105,"$3,150",220,$30,No,80,Rainy,$32.82,1126,Yes,7,Holiday Sale,4,168,Winter
+9/17/2026,Cozy Winter Jacket,Clothing,121,"$3,630",53,$30,No,76,Sunny,$34.66,814,Yes,7,None,5,156,Winter
+9/18/2026,Cozy Winter Jacket,Clothing,110,"$3,300",219,$30,No,78,Cloudy,$26.17,1252,No,3,Black Friday,4,151,Winter
+9/19/2026,Cozy Winter Jacket,Clothing,128,"$3,840",66,$30,No,72,Cloudy,$30.33,890,Yes,2,None,0,149,Winter
+9/20/2026,Cozy Winter Jacket,Clothing,114,"$3,420",180,$30,Yes,73,Cloudy,$28.69,1089,No,1,Black Friday,4,169,Winter
+9/21/2026,Cozy Winter Jacket,Clothing,128,"$3,840",109,$30,No,74,Sunny,$27.18,976,No,6,Holiday Sale,1,155,Winter
+9/22/2026,Cozy Winter Jacket,Clothing,141,"$4,230",224,$30,No,70,Sunny,$33.59,922,No,1,None,4,162,Winter
+9/23/2026,Cozy Winter Jacket,Clothing,106,"$3,180",190,$30,No,72,Cloudy,$28.53,1300,No,3,Holiday Sale,1,173,Winter
+9/24/2026,Cozy Winter Jacket,Clothing,117,"$3,510",299,$30,No,78,Rainy,$28.56,941,No,5,Black Friday,0,169,Winter
+9/25/2026,Cozy Winter Jacket,Clothing,119,"$3,570",153,$30,No,71,Rainy,$30.74,902,Yes,6,None,1,169,Winter
+9/26/2026,Cozy Winter Jacket,Clothing,140,"$4,200",187,$30,No,70,Cloudy,$28.77,855,No,1,None,2,164,Winter
